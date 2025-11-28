@@ -1,0 +1,75 @@
+{
+	"threadHistory": [
+		{
+			"thread": [
+				"FILES/Equipment/Support Abilities"
+			],
+			"currentNode": "FILES/Equipment/Support Abilities"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Support Abilities",
+				"FILES/Equipment/Support Abilities/Noisy Distraction.md"
+			],
+			"currentNode": "FILES/Equipment/Support Abilities/Noisy Distraction.md"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Support Abilities"
+			],
+			"currentNode": "FILES/Equipment/Support Abilities"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Support Abilities",
+				"FILES/Equipment/Support Abilities/Pheromone.md"
+			],
+			"currentNode": "FILES/Equipment/Support Abilities/Pheromone.md"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Support Abilities"
+			],
+			"currentNode": "FILES/Equipment/Support Abilities"
+		}
+	],
+	"threadIndex": 4,
+	"previousSession": "FILES/.tangent/tangents/joytoy_0/sessions/2025-10-29_15-27-4.tangentsession",
+	"map": {
+		"nodes": {
+			"FILES/Equipment/Support Abilities": {
+				"node": "FILES/Equipment/Support Abilities",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-10-31T18:24:28.851Z"
+			},
+			"FILES/Equipment/Support Abilities/Noisy Distraction.md": {
+				"node": "FILES/Equipment/Support Abilities/Noisy Distraction.md",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-10-31T18:24:47.012Z"
+			},
+			"FILES/Equipment/Support Abilities/Pheromone.md": {
+				"node": "FILES/Equipment/Support Abilities/Pheromone.md",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-10-31T18:25:31.402Z"
+			}
+		},
+		"connections": [
+			{
+				"from": "FILES/Equipment/Support Abilities",
+				"to": "FILES/Equipment/Support Abilities/Noisy Distraction.md",
+				"strength": 3,
+				"dateCreated": "2025-10-31T18:24:47.013Z"
+			},
+			{
+				"from": "FILES/Equipment/Support Abilities",
+				"to": "FILES/Equipment/Support Abilities/Pheromone.md",
+				"strength": 3,
+				"dateCreated": "2025-10-31T18:25:31.402Z"
+			}
+		]
+	},
+	"version": 1
+}

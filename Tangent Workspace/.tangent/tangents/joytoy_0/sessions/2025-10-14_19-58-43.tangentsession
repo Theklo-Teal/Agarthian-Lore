@@ -1,0 +1,92 @@
+{
+	"threadHistory": [
+		{
+			"thread": [
+				"FILES/Lore & Worldbuilding"
+			],
+			"currentNode": "FILES/Lore & Worldbuilding"
+		},
+		{
+			"thread": [
+				"FILES/Lore & Worldbuilding",
+				"FILES/Lore & Worldbuilding/DUMB.md"
+			],
+			"currentNode": "FILES/Lore & Worldbuilding/DUMB.md"
+		},
+		{
+			"thread": [
+				"FILES/Background Story.md"
+			],
+			"currentNode": "FILES/Background Story.md"
+		},
+		{
+			"thread": [
+				"FILES/Lore & Worldbuilding/Agarthians"
+			],
+			"currentNode": "FILES/Lore & Worldbuilding/Agarthians"
+		},
+		{
+			"thread": [
+				"FILES/Characters & Factions/Symposium.md"
+			],
+			"currentNode": "FILES/Characters & Factions/Symposium.md"
+		}
+	],
+	"threadIndex": 4,
+	"previousSession": "FILES/.tangent/tangents/joytoy_0/sessions/2025-10-13_15-49-15.tangentsession",
+	"map": {
+		"nodes": {
+			"FILES/Lore & Worldbuilding": {
+				"node": "FILES/Lore & Worldbuilding",
+				"isRoot": true,
+				"strength": 3,
+				"dateCreated": "2025-10-14T18:58:43.711Z"
+			},
+			"FILES/Lore & Worldbuilding/DUMB.md": {
+				"node": "FILES/Lore & Worldbuilding/DUMB.md",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-10-14T18:58:43.712Z"
+			},
+			"FILES/Background Story.md": {
+				"node": "FILES/Background Story.md",
+				"isRoot": true,
+				"strength": 2,
+				"dateCreated": "2025-10-14T18:58:47.645Z"
+			},
+			"FILES/Lore & Worldbuilding/Agarthians": {
+				"node": "FILES/Lore & Worldbuilding/Agarthians",
+				"isRoot": true,
+				"strength": 2,
+				"dateCreated": "2025-10-14T18:58:55.126Z"
+			},
+			"FILES/Characters & Factions/Symposium.md": {
+				"node": "FILES/Characters & Factions/Symposium.md",
+				"isRoot": true,
+				"strength": 2,
+				"dateCreated": "2025-10-14T18:59:02.169Z"
+			},
+			"FILES/Characters & Factions/The Warehouse.md": {
+				"node": "FILES/Characters & Factions/The Warehouse.md",
+				"isRoot": false,
+				"strength": 0,
+				"dateCreated": "2025-10-19T11:31:35.506Z"
+			},
+			"FILES/Lore & Worldbuilding/Agarthians/Language.md": {
+				"node": "FILES/Lore & Worldbuilding/Agarthians/Language.md",
+				"isRoot": false,
+				"strength": 0,
+				"dateCreated": "2025-10-20T10:17:08.673Z"
+			}
+		},
+		"connections": [
+			{
+				"from": "FILES/Lore & Worldbuilding",
+				"to": "FILES/Lore & Worldbuilding/DUMB.md",
+				"strength": 3,
+				"dateCreated": "2025-10-14T18:58:43.712Z"
+			}
+		]
+	},
+	"version": 1
+}

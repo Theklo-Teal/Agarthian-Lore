@@ -1,0 +1,126 @@
+{
+	"threadHistory": [
+		{
+			"thread": [
+				"FILES/Characters & Factions/Tank Drone.md"
+			],
+			"currentNode": "FILES/Characters & Factions/Tank Drone.md"
+		},
+		{
+			"thread": [
+				"FILES/Characters & Factions/Eksokiraso.md"
+			],
+			"currentNode": "FILES/Characters & Factions/Eksokiraso.md"
+		},
+		{
+			"thread": [
+				"FILES/Characters & Factions/Ethan Lennox.md"
+			],
+			"currentNode": "FILES/Characters & Factions/Ethan Lennox.md"
+		},
+		{
+			"thread": [
+				"FILES/Characters & Factions/Tank Drone.md"
+			],
+			"currentNode": "FILES/Characters & Factions/Tank Drone.md"
+		},
+		{
+			"thread": [
+				"FILES/Characters & Factions/Eksokiraso.md"
+			],
+			"currentNode": "FILES/Characters & Factions/Eksokiraso.md"
+		},
+		{
+			"thread": [
+				"FILES/Characters & Factions/Tank Drone.md"
+			],
+			"currentNode": "FILES/Characters & Factions/Tank Drone.md"
+		},
+		{
+			"thread": [
+				"FILES/Characters & Factions/Eksokiraso.md"
+			],
+			"currentNode": "FILES/Characters & Factions/Eksokiraso.md"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons/Scattergun.md"
+			],
+			"currentNode": "FILES/Equipment/Weapons/Scattergun.md"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons/Diverfleksanto.md"
+			],
+			"currentNode": "FILES/Equipment/Weapons/Diverfleksanto.md"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons/Transrekto.md"
+			],
+			"currentNode": "FILES/Equipment/Weapons/Transrekto.md"
+		},
+		{
+			"thread": [
+				"FILES/Characters & Factions/Eksokiraso.md"
+			],
+			"currentNode": "FILES/Characters & Factions/Eksokiraso.md"
+		},
+		{
+			"thread": [
+				"FILES/Characters & Factions/Hostiles"
+			],
+			"currentNode": "FILES/Characters & Factions/Hostiles"
+		}
+	],
+	"threadIndex": 11,
+	"previousSession": "FILES/.tangent/tangents/joytoy_0/sessions/2025-10-21_13-26-29.tangentsession",
+	"map": {
+		"nodes": {
+			"FILES/Characters & Factions/Tank Drone.md": {
+				"node": "FILES/Characters & Factions/Tank Drone.md",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-10-22T08:32:17.398Z"
+			},
+			"FILES/Characters & Factions/Eksokiraso.md": {
+				"node": "FILES/Characters & Factions/Eksokiraso.md",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-10-22T08:32:41.908Z"
+			},
+			"FILES/Characters & Factions/Ethan Lennox.md": {
+				"node": "FILES/Characters & Factions/Ethan Lennox.md",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-10-22T08:32:48.196Z"
+			},
+			"FILES/Equipment/Weapons/Scattergun.md": {
+				"node": "FILES/Equipment/Weapons/Scattergun.md",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-10-22T08:39:41.750Z"
+			},
+			"FILES/Equipment/Weapons/Diverfleksanto.md": {
+				"node": "FILES/Equipment/Weapons/Diverfleksanto.md",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-10-22T08:47:11.340Z"
+			},
+			"FILES/Equipment/Weapons/Transrekto.md": {
+				"node": "FILES/Equipment/Weapons/Transrekto.md",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-10-22T08:47:28.035Z"
+			},
+			"FILES/Characters & Factions/Hostiles": {
+				"node": "FILES/Characters & Factions/Hostiles",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-10-22T09:12:21.070Z"
+			}
+		},
+		"connections": []
+	},
+	"version": 1
+}

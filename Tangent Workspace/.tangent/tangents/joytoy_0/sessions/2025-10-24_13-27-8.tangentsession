@@ -1,0 +1,97 @@
+{
+	"threadHistory": [
+		{
+			"thread": [
+				"FILES/Background Story.md"
+			],
+			"currentNode": "FILES/Background Story.md"
+		}
+	],
+	"threadIndex": 0,
+	"previousSession": "FILES/.tangent/tangents/joytoy_0/sessions/2025-10-23_9-22-25.tangentsession",
+	"map": {
+		"nodes": {
+			"FILES/Background Story.md": {
+				"node": "FILES/Background Story.md",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-10-24T12:27:08.690Z"
+			},
+			"FILES/Lore & Worldbuilding/DUMB.md": {
+				"node": "FILES/Lore & Worldbuilding/DUMB.md",
+				"isRoot": false,
+				"strength": 1,
+				"dateCreated": "2025-10-24T12:29:19.452Z"
+			},
+			"FILES/Characters & Factions/The Warehouse.md": {
+				"node": "FILES/Characters & Factions/The Warehouse.md",
+				"isRoot": false,
+				"strength": 1,
+				"dateCreated": "2025-10-24T12:30:31.096Z"
+			},
+			"FILES/Characters & Factions/Agarthians.md": {
+				"node": "FILES/Characters & Factions/Agarthians.md",
+				"isRoot": false,
+				"strength": 1,
+				"dateCreated": "2025-10-24T12:30:31.097Z"
+			},
+			"FILES/Lore & Worldbuilding/Orgone.md": {
+				"node": "FILES/Lore & Worldbuilding/Orgone.md",
+				"isRoot": false,
+				"strength": 1,
+				"dateCreated": "2025-10-24T12:30:31.098Z"
+			},
+			"FILES/Characters & Factions/Ethan Lennox.md": {
+				"node": "FILES/Characters & Factions/Ethan Lennox.md",
+				"isRoot": false,
+				"strength": 1,
+				"dateCreated": "2025-10-24T12:37:40.126Z"
+			},
+			"FILES/Characters & Factions/Seigro Gamma.md": {
+				"node": "FILES/Characters & Factions/Seigro Gamma.md",
+				"isRoot": false,
+				"strength": 1,
+				"dateCreated": "2025-10-24T12:37:40.127Z"
+			}
+		},
+		"connections": [
+			{
+				"from": "FILES/Background Story.md",
+				"to": "FILES/Lore & Worldbuilding/DUMB.md",
+				"strength": 1,
+				"dateCreated": "2025-10-24T12:29:19.453Z"
+			},
+			{
+				"from": "FILES/Background Story.md",
+				"to": "FILES/Characters & Factions/The Warehouse.md",
+				"strength": 1,
+				"dateCreated": "2025-10-24T12:30:31.097Z"
+			},
+			{
+				"from": "FILES/Background Story.md",
+				"to": "FILES/Characters & Factions/Agarthians.md",
+				"strength": 1,
+				"dateCreated": "2025-10-24T12:30:31.097Z"
+			},
+			{
+				"from": "FILES/Background Story.md",
+				"to": "FILES/Lore & Worldbuilding/Orgone.md",
+				"strength": 1,
+				"dateCreated": "2025-10-24T12:30:31.098Z"
+			},
+			{
+				"from": "FILES/Background Story.md",
+				"to": "FILES/Characters & Factions/Ethan Lennox.md",
+				"strength": 1,
+				"dateCreated": "2025-10-24T12:37:40.127Z"
+			},
+			{
+				"from": "FILES/Background Story.md",
+				"to": "FILES/Characters & Factions/Seigro Gamma.md",
+				"strength": 1,
+				"dateCreated": "2025-10-24T12:37:40.127Z"
+			}
+		]
+	},
+	"version": 1
+}

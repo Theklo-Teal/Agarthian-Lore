@@ -1,0 +1,109 @@
+{
+	"threadHistory": [
+		{
+			"thread": [
+				"FILES/Equipment/Weapons"
+			],
+			"currentNode": "FILES/Equipment/Weapons"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons/Seigro's Invention.md"
+			],
+			"currentNode": "FILES/Equipment/Weapons/Seigro's Invention.md"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons/Scattergun.md"
+			],
+			"currentNode": "FILES/Equipment/Weapons/Scattergun.md"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons/Silk Shot.md"
+			],
+			"currentNode": "FILES/Equipment/Weapons/Silk Shot.md"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons/Needle Cloud.md"
+			],
+			"currentNode": "FILES/Equipment/Weapons/Needle Cloud.md"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons/Diverfleksanto.md"
+			],
+			"currentNode": "FILES/Equipment/Weapons/Diverfleksanto.md"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons/Scattergun.md"
+			],
+			"currentNode": "FILES/Equipment/Weapons/Scattergun.md"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons/Seigro's Invention.md"
+			],
+			"currentNode": "FILES/Equipment/Weapons/Seigro's Invention.md"
+		}
+	],
+	"threadIndex": 7,
+	"previousSession": "FILES/.tangent/tangents/joytoy_0/sessions/2025-10-24_13-27-8.tangentsession",
+	"map": {
+		"nodes": {
+			"FILES/Equipment/Weapons": {
+				"node": "FILES/Equipment/Weapons",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-10-29T15:27:04.802Z"
+			},
+			"FILES/Equipment/Weapons/Seigro's Invention.md": {
+				"node": "FILES/Equipment/Weapons/Seigro's Invention.md",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-10-29T15:27:07.281Z"
+			},
+			"FILES/Equipment/Weapons/Scattergun.md": {
+				"node": "FILES/Equipment/Weapons/Scattergun.md",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-10-29T15:27:18.446Z"
+			},
+			"FILES/Equipment/Weapons/Silk Shot.md": {
+				"node": "FILES/Equipment/Weapons/Silk Shot.md",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-10-29T15:27:20.975Z"
+			},
+			"FILES/Lore & Worldbuilding/Technology/Artifact Ideas.md": {
+				"node": "FILES/Lore & Worldbuilding/Technology/Artifact Ideas.md",
+				"isRoot": false,
+				"strength": 1,
+				"dateCreated": "2025-10-29T15:29:09.916Z"
+			},
+			"FILES/Equipment/Weapons/Needle Cloud.md": {
+				"node": "FILES/Equipment/Weapons/Needle Cloud.md",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-10-29T15:29:56.313Z"
+			},
+			"FILES/Equipment/Weapons/Diverfleksanto.md": {
+				"node": "FILES/Equipment/Weapons/Diverfleksanto.md",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-10-29T15:29:59.953Z"
+			}
+		},
+		"connections": [
+			{
+				"from": "FILES/Equipment/Weapons/Seigro's Invention.md",
+				"to": "FILES/Lore & Worldbuilding/Technology/Artifact Ideas.md",
+				"strength": 1,
+				"dateCreated": "2025-10-29T15:29:09.917Z"
+			}
+		]
+	},
+	"version": 1
+}

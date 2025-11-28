@@ -1,0 +1,36 @@
+{
+	"threadHistory": [
+		{
+			"thread": [
+				"FILES/Equipment/Apparel"
+			],
+			"currentNode": "FILES/Equipment/Apparel"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Apparel/Twizzler Suit.md"
+			],
+			"currentNode": "FILES/Equipment/Apparel/Twizzler Suit.md"
+		}
+	],
+	"threadIndex": 1,
+	"previousSession": "FILES/.tangent/tangents/joytoy_0/sessions/2025-11-1_12-20-37.tangentsession",
+	"map": {
+		"nodes": {
+			"FILES/Equipment/Apparel": {
+				"node": "FILES/Equipment/Apparel",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-11-07T19:07:28.692Z"
+			},
+			"FILES/Equipment/Apparel/Twizzler Suit.md": {
+				"node": "FILES/Equipment/Apparel/Twizzler Suit.md",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-11-07T19:07:31.061Z"
+			}
+		},
+		"connections": []
+	},
+	"version": 1
+}

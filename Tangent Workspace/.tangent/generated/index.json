@@ -1,0 +1,2179 @@
+{
+	"version": 1,
+	"date": "2025-11-27T17:30:40.565Z",
+	"items": {
+		"FILES/.tangent/tangents/joytoy_0/sessions/2025-11-27_17-11-12.tangentsession": {
+			"uuid": "1f0cbb41-3787-6aa0-ba48-5b2d76205e64"
+		},
+		"FILES/Background Story.md": {
+			"uuid": "1f0a28a5-8f1e-6600-a101-6eb4adbb0b46",
+			"modified": "2025-11-01T12:21:34.515Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 76,
+					"data": {
+						"Codename": "Cross Pollinator (XPoll)",
+						"Working Title": "Chevron Detachment"
+					}
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Themes",
+					"start": 77,
+					"end": 87
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Setpieces",
+					"start": 222,
+					"end": 235
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Guidelines",
+					"start": 334,
+					"end": 348
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 711,
+					"end": 727,
+					"href": "Ethan Lennox",
+					"context": "1. [[Ethan Lennox]], [[Seigro Gamma]], other 2 characters more.",
+					"to": "FILES/Characters & Factions/Ethan Lennox.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 729,
+					"end": 745,
+					"href": "Seigro Gamma",
+					"context": "1. [[Ethan Lennox]], [[Seigro Gamma]], other 2 characters more.",
+					"to": "FILES/Characters & Factions/Seigro Gamma.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 802,
+					"end": 819,
+					"href": "The Warehouse",
+					"context": "2. \"Agarthian Investigators\", [[The Warehouse]]?",
+					"to": "FILES/Characters & Factions/The Warehouse.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 924,
+					"end": 939,
+					"href": "Bioprinters",
+					"context": "4. Inventing the [[Bioprinters]]",
+					"to": "FILES/Lore & Worldbuilding/Technology/Bioprinters.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1787,
+					"end": 1800,
+					"href": "Symposium",
+					"context": "During the Second World War a German V-bomb fell through a building in London as a dud. This was one of the early deployments of the secret weapon and the government rushed to border off the building and try to retrieve the wonder weapon for analysis. The building belonged to an NGO called \"[[Symposium]]\" and inside they found the bomb having penetrated an unexpected number of floor deep underground, then sitting in the middle of a strange chamber with exotic technology. Interest in the V-bomb shifted to understanding this strange collection of technology in the middle of the rubble.",
+					"to": "FILES/Characters & Factions/Symposium.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 2455,
+					"end": 2473,
+					"href": "Artifact Ideas",
+					"context": "Samples of the artifacts encountered, were shipped to the USA for their own analysis, but  half of these shipments were diverted by unknown actors. It is possible that all major superpowers of the world are now secretly aware that some entity is producing highly advanced and incomprehensible technology. It is suspected that they are racing to successfully replicate [[Artifact Ideas]] first.",
+					"to": "FILES/Lore & Worldbuilding/Technology/Artifact Ideas.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 2486,
+					"end": 2494,
+					"href": "DUMB",
+					"context": "The [[DUMB]] at the game's setting is being used to carry out the \"Cross Pollinator\" Program, under supervision of [[The Warehouse]]. With a network of X-Labs, they are trying to understand and replicate Agarthian technology. A lot of knowledge about Agarthian activity has also been collected.",
+					"to": "FILES/Lore & Worldbuilding/DUMB.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 2597,
+					"end": 2614,
+					"href": "The Warehouse",
+					"context": "The [[DUMB]] at the game's setting is being used to carry out the \"Cross Pollinator\" Program, under supervision of [[The Warehouse]]. With a network of X-Labs, they are trying to understand and replicate Agarthian technology. A lot of knowledge about Agarthian activity has also been collected.",
+					"to": "FILES/Characters & Factions/The Warehouse.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 2889,
+					"end": 2903,
+					"href": "Agarthians",
+					"context": "[[Agarthians]] aren't very excited about being investigated and potentially having their [[Orgone]] network interfered with, so they often run sabotage operations against any research or laboratory involved in this technology.",
+					"to": "FILES/Characters & Factions/Agarthians.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 2978,
+					"end": 2988,
+					"href": "Orgone",
+					"context": "[[Agarthians]] aren't very excited about being investigated and potentially having their [[Orgone]] network interfered with, so they often run sabotage operations against any research or laboratory involved in this technology.",
+					"to": "FILES/Lore & Worldbuilding/Orgone.md"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Idea 1",
+					"start": 3117,
+					"end": 3126
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 3248,
+					"end": 3264,
+					"href": "Seigro Gamma",
+					"context": "Despite multiple Agarthians being successfully evacuated from the London bombing, and preserving their secret existence, [[Seigro Gamma]] was in the middle of incubation (see [[Life Cycle]]) and was born in the hands of the [[The Warehouse]]. She was interrogated, tested and held captive, as the only known Agarthian member in the world.",
+					"to": "FILES/Characters & Factions/Seigro Gamma.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 3302,
+					"end": 3316,
+					"href": "Life Cycle",
+					"context": "Despite multiple Agarthians being successfully evacuated from the London bombing, and preserving their secret existence, [[Seigro Gamma]] was in the middle of incubation (see [[Life Cycle]]) and was born in the hands of the [[The Warehouse]]. She was interrogated, tested and held captive, as the only known Agarthian member in the world.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Life Cycle.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 3351,
+					"end": 3368,
+					"href": "The Warehouse",
+					"context": "Despite multiple Agarthians being successfully evacuated from the London bombing, and preserving their secret existence, [[Seigro Gamma]] was in the middle of incubation (see [[Life Cycle]]) and was born in the hands of the [[The Warehouse]]. She was interrogated, tested and held captive, as the only known Agarthian member in the world.",
+					"to": "FILES/Characters & Factions/The Warehouse.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 3494,
+					"end": 3510,
+					"href": "Ethan Lennox",
+					"context": "Agarthians anonymously hire [[Ethan Lennox]] to rescue Seigro.",
+					"to": "FILES/Characters & Factions/Ethan Lennox.md"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Idea 2",
+					"start": 3530,
+					"end": 3539
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 3543,
+					"end": 3560,
+					"href": "The Warehouse",
+					"context": "As [[The Warehouse]] managed to run their first experiments in the Noosphere, it became possible for Agarthians to locate the lost London artifacts. They hire [[Ethan Lennox]] to join with [[Seigro Gamma]] who is able to enter the [[DUMB]] so they may retrieve the artifacts. Of course, they find the network is covered in labs investigating Agartha, so they have to sabotage  them all.",
+					"to": "FILES/Characters & Factions/The Warehouse.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 3699,
+					"end": 3715,
+					"href": "Ethan Lennox",
+					"context": "As [[The Warehouse]] managed to run their first experiments in the Noosphere, it became possible for Agarthians to locate the lost London artifacts. They hire [[Ethan Lennox]] to join with [[Seigro Gamma]] who is able to enter the [[DUMB]] so they may retrieve the artifacts. Of course, they find the network is covered in labs investigating Agartha, so they have to sabotage  them all.",
+					"to": "FILES/Characters & Factions/Ethan Lennox.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 3729,
+					"end": 3745,
+					"href": "Seigro Gamma",
+					"context": "As [[The Warehouse]] managed to run their first experiments in the Noosphere, it became possible for Agarthians to locate the lost London artifacts. They hire [[Ethan Lennox]] to join with [[Seigro Gamma]] who is able to enter the [[DUMB]] so they may retrieve the artifacts. Of course, they find the network is covered in labs investigating Agartha, so they have to sabotage  them all.",
+					"to": "FILES/Characters & Factions/Seigro Gamma.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 3771,
+					"end": 3779,
+					"href": "DUMB",
+					"context": "As [[The Warehouse]] managed to run their first experiments in the Noosphere, it became possible for Agarthians to locate the lost London artifacts. They hire [[Ethan Lennox]] to join with [[Seigro Gamma]] who is able to enter the [[DUMB]] so they may retrieve the artifacts. Of course, they find the network is covered in labs investigating Agartha, so they have to sabotage  them all.",
+					"to": "FILES/Lore & Worldbuilding/DUMB.md"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Idea 3",
+					"start": 3928,
+					"end": 3937
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 4043,
+					"end": 4059,
+					"href": "Ethan Lennox",
+					"context": "A scientist or engineer suspects of Agarthian activity in a particular underground facility and comes to [[Ethan Lennox]] to ask for a guide team to investigate. There they find out the facility connects to the [[DUMB]] and there's a lot more to see. They stumble upon [[Seigro Gamma]] being captive, eventually.",
+					"to": "FILES/Characters & Factions/Ethan Lennox.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 4149,
+					"end": 4157,
+					"href": "DUMB",
+					"context": "A scientist or engineer suspects of Agarthian activity in a particular underground facility and comes to [[Ethan Lennox]] to ask for a guide team to investigate. There they find out the facility connects to the [[DUMB]] and there's a lot more to see. They stumble upon [[Seigro Gamma]] being captive, eventually.",
+					"to": "FILES/Lore & Worldbuilding/DUMB.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 4207,
+					"end": 4223,
+					"href": "Seigro Gamma",
+					"context": "A scientist or engineer suspects of Agarthian activity in a particular underground facility and comes to [[Ethan Lennox]] to ask for a guide team to investigate. There they find out the facility connects to the [[DUMB]] and there's a lot more to see. They stumble upon [[Seigro Gamma]] being captive, eventually.",
+					"to": "FILES/Characters & Factions/Seigro Gamma.md"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Idea 4",
+					"start": 4252,
+					"end": 4261
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Idea 5",
+					"start": 4730,
+					"end": 4739
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 4915,
+					"end": 4931,
+					"href": "Ethan Lennox",
+					"context": "A scientist from the X-Poll program, but with limited knowledge about it, defects after figuring out Agartha's existence. He then informs them of X-Poll program, so they hire [[Ethan Lennox]] to team up with [[Seigro Gamma]] to investigate and sabotage the labs.",
+					"to": "FILES/Characters & Factions/Ethan Lennox.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 4948,
+					"end": 4964,
+					"href": "Seigro Gamma",
+					"context": "A scientist from the X-Poll program, but with limited knowledge about it, defects after figuring out Agartha's existence. He then informs them of X-Poll program, so they hire [[Ethan Lennox]] to team up with [[Seigro Gamma]] to investigate and sabotage the labs.",
+					"to": "FILES/Characters & Factions/Seigro Gamma.md"
+				}
+			]
+		},
+		"FILES/Characters & Factions/Agarthians.md": {
+			"uuid": "1f0a28a5-8f6a-60f0-9c7a-4a5ddcae97c1",
+			"modified": "2025-11-01T12:21:34.515Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 42,
+					"data": {
+						"Warehouse Alias": "Muses of the Pond"
+					}
+				},
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 43,
+					"end": 81,
+					"href": "Agartha_Coat_of_Arms_Embossed.png",
+					"context": "![[Agartha_Coat_of_Arms_Embossed.png]]",
+					"to": "FILES/_Media/Agartha_Coat_of_Arms_Embossed.png"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 188,
+					"end": 221,
+					"href": "Artifact Ideas",
+					"text": "Mind Uploading",
+					"context": "A crypto-terrestrial culture of highly advanced humans. It functions similarly to a cult. Upon inventing [[Artifact Ideas|Mind Uploading]] they have been retreating into isolation. The virtual reality where they inhabit is named [[Agartha]]. Those not in Agartha are designated [[Life Cycle| \"Adityo\"]] and work to maintain and defend the [[Rainbow Mainframes]] hidden underground that sustain Agartha in the hopes of one day joining as well.",
+					"to": "FILES/Lore & Worldbuilding/Technology/Artifact Ideas.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 312,
+					"end": 323,
+					"href": "Agartha",
+					"context": "A crypto-terrestrial culture of highly advanced humans. It functions similarly to a cult. Upon inventing [[Artifact Ideas|Mind Uploading]] they have been retreating into isolation. The virtual reality where they inhabit is named [[Agartha]]. Those not in Agartha are designated [[Life Cycle| \"Adityo\"]] and work to maintain and defend the [[Rainbow Mainframes]] hidden underground that sustain Agartha in the hopes of one day joining as well.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Agartha.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 361,
+					"end": 385,
+					"href": "Life Cycle",
+					"text": " \"Adityo\"",
+					"context": "A crypto-terrestrial culture of highly advanced humans. It functions similarly to a cult. Upon inventing [[Artifact Ideas|Mind Uploading]] they have been retreating into isolation. The virtual reality where they inhabit is named [[Agartha]]. Those not in Agartha are designated [[Life Cycle| \"Adityo\"]] and work to maintain and defend the [[Rainbow Mainframes]] hidden underground that sustain Agartha in the hopes of one day joining as well.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Life Cycle.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 422,
+					"end": 444,
+					"href": "Rainbow Mainframes",
+					"context": "A crypto-terrestrial culture of highly advanced humans. It functions similarly to a cult. Upon inventing [[Artifact Ideas|Mind Uploading]] they have been retreating into isolation. The virtual reality where they inhabit is named [[Agartha]]. Those not in Agartha are designated [[Life Cycle| \"Adityo\"]] and work to maintain and defend the [[Rainbow Mainframes]] hidden underground that sustain Agartha in the hopes of one day joining as well.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Rainbow Mainframes.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 588,
+					"end": 601,
+					"href": "Symposium",
+					"context": "Above ground, they administrate a facade organization named \"[[Symposium]]\", allowing them to operate among Danavo in disguise. The mention of \"Agartha\" is secret and replaced by \"Symposium\" in conversations. The selected Devio within Agartha acts as the leaders directing Adityo and managing their activities.",
+					"to": "FILES/Characters & Factions/Symposium.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1118,
+					"end": 1136,
+					"href": "Artifact Ideas",
+					"context": "Whenever a Danavo are found to be investigating or having witnessed Agarthian activity, Agarthians perform psycological operations (psy-ops) to mislead, harass and suppress them. This is the source of \"Men in Black\" stories. Agarthians sometimes trick people to believe that any [[Artifact Ideas]] they witness is actually from space aliens, resulting the growing UFO hoax phenomenon through history.",
+					"to": "FILES/Lore & Worldbuilding/Technology/Artifact Ideas.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1395,
+					"end": 1424,
+					"href": "Life Cycle",
+					"text": "transmigration",
+					"context": "Although a very reserved and chauvinistic society, their sporadic alliance with Danavo on some jobs has earned enough honor in some of them to be allowed [[Life Cycle|transmigration]]. Agarthians do careful vetting and training before engaging with allies to ensure compatibility with this process.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Life Cycle.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1793,
+					"end": 1804,
+					"href": "Sanctum",
+					"context": "Generally they make use of Danavo clothing, architecture and weapons to stay in disguise while operating above ground. But they have an internal culture with things derived from their exotic technology. Agarthian attire is used whenever working in the [[Sanctum]] and Agarthian weapons are brought up when a conflict situation becomes overpowering. ",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Sanctum.md"
+				},
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 1892,
+					"end": 1925,
+					"href": "Agarthian_Concept_Casual.png",
+					"context": "![[Agarthian_Concept_Casual.png]]",
+					"to": "FILES/_Media/Agarthian_Concept_Casual.png"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 2253,
+					"end": 2288,
+					"href": "Artifact Ideas",
+					"text": "organic machines",
+					"context": "Their entire society is composed of genderless sterile humans with female appearance, despite generally expressing as androgynous. Their genetics is greatly simplified and they lack sex chromosomes, but their wombs can be induced to produce small [[Artifact Ideas|organic machines]]. They also possess special neurons which senses [[Orgone]] and secrete ectoplasm more efficiently, enabling them [[Contact Telepathy]].",
+					"to": "FILES/Lore & Worldbuilding/Technology/Artifact Ideas.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 2337,
+					"end": 2347,
+					"href": "Orgone",
+					"context": "Their entire society is composed of genderless sterile humans with female appearance, despite generally expressing as androgynous. Their genetics is greatly simplified and they lack sex chromosomes, but their wombs can be induced to produce small [[Artifact Ideas|organic machines]]. They also possess special neurons which senses [[Orgone]] and secrete ectoplasm more efficiently, enabling them [[Contact Telepathy]].",
+					"to": "FILES/Lore & Worldbuilding/Orgone.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 2402,
+					"end": 2423,
+					"href": "Contact Telepathy",
+					"context": "Their entire society is composed of genderless sterile humans with female appearance, despite generally expressing as androgynous. Their genetics is greatly simplified and they lack sex chromosomes, but their wombs can be induced to produce small [[Artifact Ideas|organic machines]]. They also possess special neurons which senses [[Orgone]] and secrete ectoplasm more efficiently, enabling them [[Contact Telepathy]].",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Contact Telepathy.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 2442,
+					"end": 2456,
+					"href": "Life Cycle",
+					"context": "See about their [[Life Cycle]] ",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Life Cycle.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 2931,
+					"end": 2959,
+					"href": "Language",
+					"text": "native language",
+					"context": "So \"Theklo Alpha 250\" was born in the year 250 and was the first person named \"Theklo\" in that year. The name can be alternatively written like \"**Theklo α βε'**\". All their names end with the letter \"o\" as a quirk of their [[Language|native language]].",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Language.md"
+				}
+			]
+		},
+		"FILES/Characters & Factions/Chevron Detachment.md": {
+			"uuid": "1f0a28a5-8f6c-6800-9d53-a4ea13fec906",
+			"modified": "2025-10-05T09:59:02.980Z"
+		},
+		"FILES/Characters & Factions/Cornerstone Institute.md": {
+			"uuid": "1f0a28a5-8f6c-6801-b806-3ee4aa1fb865",
+			"modified": "2025-10-20T09:56:05.615Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 110,
+					"end": 127,
+					"href": "The Warehouse",
+					"context": "Officially  a gravity wave research complex. The scientists and engineers in this complex are secretly aiding [[The Warehouse]] to reverse engineer and replicate [[Agarthians]] technology. During this work they have accidentally stumbled upon a method for teleportation. Their machine is codenamed \"Cross Pollinator\".",
+					"to": "FILES/Characters & Factions/The Warehouse.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 162,
+					"end": 176,
+					"href": "Agarthians",
+					"context": "Officially  a gravity wave research complex. The scientists and engineers in this complex are secretly aiding [[The Warehouse]] to reverse engineer and replicate [[Agarthians]] technology. During this work they have accidentally stumbled upon a method for teleportation. Their machine is codenamed \"Cross Pollinator\".",
+					"to": "FILES/Characters & Factions/Agarthians.md"
+				}
+			]
+		},
+		"FILES/Characters & Factions/Eksokiraso.md": {
+			"uuid": "1f0ad075-bef4-6870-ba3d-836aee2836c0",
+			"modified": "2025-10-22T08:38:25.133Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 55,
+					"data": {
+						"Warehouse Alias": "Shell Suit",
+						"Other name": "Strider"
+					}
+				}
+			]
+		},
+		"FILES/Characters & Factions/Ethan Lennox.md": {
+			"uuid": "1f0a28a5-8f6e-6f10-aa57-59512dfad910",
+			"modified": "2025-10-20T09:45:39.163Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 158,
+					"data": {
+						"Chevron Alias": "Ace of Spades",
+						"Warehouse Alias": "Dandelion",
+						"Blood Type": "O minus",
+						"Height (cm)": 185,
+						"Weight (Kg)": 78,
+						"Age": 48,
+						"Sex": "Male",
+						"Based on": "Joe Flanigan"
+					}
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 159,
+					"end": 171,
+					"href": "Player_Char",
+					"context": "#Player_Char #Chevron",
+					"to": "#/PLAYER_CHAR"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 172,
+					"end": 180,
+					"href": "Chevron",
+					"context": "#Player_Char #Chevron",
+					"to": "#/CHEVRON"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 299,
+					"end": 315,
+					"href": "Seigro Gamma",
+					"context": "Retired Special Forces soldier. Hired for a private contract by Agarthians, unknown to him. His mission is to rescue [[Seigro Gamma]].",
+					"to": "FILES/Characters & Factions/Seigro Gamma.md"
+				}
+			]
+		},
+		"FILES/Characters & Factions/Hostiles/Assassin.md": {
+			"uuid": "1f0ad240-5284-6b00-9aa3-05ac49ca6d73",
+			"modified": "2025-10-19T19:47:56.143Z",
+			"structure": [
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 0,
+					"end": 10,
+					"href": "Agarthian",
+					"context": "#Agarthian",
+					"to": "#/AGARTHIAN"
+				}
+			]
+		},
+		"FILES/Characters & Factions/Hostiles/Containment Fix.md": {
+			"uuid": "1f0add52-cf55-6400-874a-04c8ce62b2e4",
+			"modified": "2025-10-20T17:01:00.717Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 5,
+					"end": 27,
+					"href": "Ectoplasm Stun Gun",
+					"context": "Uses [[Ectoplasm Stun Gun]]",
+					"to": "FILES/Equipment/Weapons/Ectoplasm Stun Gun.md"
+				}
+			]
+		},
+		"FILES/Characters & Factions/Hostiles/Infantry Assault.md": {
+			"uuid": "1f0ad23e-240b-6f00-9802-7f139cfe9d60",
+			"modified": "2025-10-19T19:45:32.702Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 5,
+					"end": 22,
+					"href": "Assault Rifle",
+					"context": "Uses [[Assault Rifle]]",
+					"to": "FILES/Equipment/Weapons/Assault Rifle.md"
+				}
+			]
+		},
+		"FILES/Characters & Factions/Hostiles/Infantry Marksman.md": {
+			"uuid": "1f0ad23f-6cb3-6ae0-8323-793221be360a",
+			"modified": "2025-10-19T19:45:14.184Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 5,
+					"end": 21,
+					"href": "Battle Rifle",
+					"context": "Uses [[Battle Rifle]]",
+					"to": "FILES/Equipment/Weapons/Battle Rifle.md"
+				}
+			]
+		},
+		"FILES/Characters & Factions/Hostiles/Men In Black.md": {
+			"uuid": "1f0add6d-cfbc-6720-b29e-281b9bc290be",
+			"modified": "2025-10-21T12:49:55.598Z",
+			"structure": [
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 0,
+					"end": 10,
+					"href": "Agarthian",
+					"context": "#Agarthian ",
+					"to": "#/AGARTHIAN"
+				}
+			]
+		},
+		"FILES/Characters & Factions/Hostiles/PMC Breacher.md": {
+			"uuid": "1f0ad23d-eb8a-69b0-bc53-9585373f5f72",
+			"modified": "2025-10-19T19:45:53.548Z"
+		},
+		"FILES/Characters & Factions/Hostiles/PMC Pointman.md": {
+			"uuid": "1f0ad23d-add9-6260-8cb9-46bfb03bee60",
+			"modified": "2025-10-19T19:45:21.085Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 5,
+					"end": 22,
+					"href": "Submachinegun",
+					"context": "Uses [[Submachinegun]]",
+					"to": "FILES/Equipment/Weapons/Submachinegun.md"
+				}
+			]
+		},
+		"FILES/Characters & Factions/Hostiles/Revenant Crew.md": {
+			"uuid": "1f0ad23f-cb7c-6d10-9ed1-d3f127409f5f",
+			"modified": "2025-10-22T08:36:05.505Z",
+			"structure": [
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 0,
+					"end": 10,
+					"href": "Agarthian",
+					"context": "#Agarthian",
+					"to": "#/AGARTHIAN"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 111,
+					"end": 129,
+					"href": "Combat Uniform",
+					"context": "The first choice when Agarthians need to dispatch a threat quickly. Special operations squad using [[Combat Uniform]] and sometimes deploying [[Eksokiraso]]",
+					"to": "FILES/Equipment/Apparel/Combat Uniform.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 154,
+					"end": 168,
+					"href": "Eksokiraso",
+					"context": "The first choice when Agarthians need to dispatch a threat quickly. Special operations squad using [[Combat Uniform]] and sometimes deploying [[Eksokiraso]]",
+					"to": "FILES/Characters & Factions/Eksokiraso.md"
+				}
+			]
+		},
+		"FILES/Characters & Factions/Hostiles/Tin Soldier.md": {
+			"uuid": "1f0ad24c-fd64-6780-bdd3-f9724e120f55",
+			"modified": "2025-10-19T20:01:45.251Z",
+			"structure": [
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 0,
+					"end": 10,
+					"href": "Agarthian",
+					"context": "#Agarthian",
+					"to": "#/AGARTHIAN"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 49,
+					"end": 67,
+					"href": "Combat Uniform",
+					"context": "An Agarthian exoskeleton, like in the [[Combat Uniform]] but being remote controlled without a soldier inside.",
+					"to": "FILES/Equipment/Apparel/Combat Uniform.md"
+				}
+			]
+		},
+		"FILES/Characters & Factions/Hostiles/Valkyries.md": {
+			"uuid": "1f0ad244-4ac8-6430-b10f-238737cb214e",
+			"modified": "2025-10-19T19:47:08.072Z",
+			"structure": [
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 0,
+					"end": 10,
+					"href": "Agarthian",
+					"context": "#Agarthian ",
+					"to": "#/AGARTHIAN"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 48,
+					"end": 67,
+					"href": "Support Uniform",
+					"context": "Use heavy combat uniforms like the [[Support Uniform]]",
+					"to": "FILES/Equipment/Apparel/Support Uniform.md"
+				}
+			]
+		},
+		"FILES/Characters & Factions/Private Military Corporation.md": {
+			"uuid": "1f0ad254-0077-60b0-a090-9de5cb3d4e3c",
+			"modified": "2025-10-19T19:58:24.670Z"
+		},
+		"FILES/Characters & Factions/Seigro Gamma.md": {
+			"uuid": "1f0a28a5-8f73-6d30-ac1c-599e3da6a6f4",
+			"modified": "2025-10-20T11:08:30.354Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 211,
+					"data": {
+						"Chevron Alias": "Heart Ace",
+						"Warehouse Alias": "Anthracite",
+						"Blood Type": "AB minus",
+						"Height (cm)": 190,
+						"Weight (Kg)": 71,
+						"Age": 12,
+						"Sex": "Agarthian",
+						"Based on": "Ruby Rose, Harmony Boucher",
+						"Orgone Signature": "Petrichor/Geosmin"
+					}
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 212,
+					"end": 224,
+					"href": "Player_Char",
+					"context": "#Player_Char #Agarthian #Chevron ",
+					"to": "#/PLAYER_CHAR"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 225,
+					"end": 235,
+					"href": "Agarthian",
+					"context": "#Player_Char #Agarthian #Chevron ",
+					"to": "#/AGARTHIAN"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 236,
+					"end": 244,
+					"href": "Chevron",
+					"context": "#Player_Char #Agarthian #Chevron ",
+					"to": "#/CHEVRON"
+				}
+			]
+		},
+		"FILES/Characters & Factions/Symposium.md": {
+			"uuid": "1f0a28a5-8f76-6440-8bd6-ad5736afd7c0",
+			"modified": "2025-10-14T18:59:14.397Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 22,
+					"end": 36,
+					"href": "Agarthians",
+					"context": "A facade name for the [[Agarthians]] as they operate above ground. They pretend to be a unremarkable administrative NGO. Holding multiple facilities in the form of office blocks, warehouses and mansions across the world, wherever Agarthians need to keep people away from accidentally stumbling upon their [[Sanctum]].",
+					"to": "FILES/Characters & Factions/Agarthians.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 305,
+					"end": 316,
+					"href": "Sanctum",
+					"context": "A facade name for the [[Agarthians]] as they operate above ground. They pretend to be a unremarkable administrative NGO. Holding multiple facilities in the form of office blocks, warehouses and mansions across the world, wherever Agarthians need to keep people away from accidentally stumbling upon their [[Sanctum]].",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Sanctum.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 540,
+					"end": 554,
+					"href": "Life Cycle",
+					"context": "New Agarthians are born or manufactured in these facilities before getting transmigrated to Agartha. See [[Life Cycle]]",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Life Cycle.md"
+				}
+			]
+		},
+		"FILES/Characters & Factions/Tank Drone.md": {
+			"uuid": "1f0ad083-27ea-66b0-8390-08fd20ec5fb7",
+			"modified": "2025-10-22T08:32:56.917Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 33,
+					"data": {
+						"Warehouse Alias": "Carapace"
+					}
+				}
+			]
+		},
+		"FILES/Characters & Factions/The Warehouse.md": {
+			"uuid": "1f0a28a5-8f78-6b50-835f-6dda457b702f",
+			"modified": "2025-10-05T08:57:36.846Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 76,
+					"end": 90,
+					"href": "Agarthians",
+					"context": "A clandestine government military organization investigating and collecting [[Agarthians]] Technology.",
+					"to": "FILES/Characters & Factions/Agarthians.md"
+				}
+			]
+		},
+		"FILES/Equipment/Apparel/Active Night Vision.md": {
+			"uuid": "1f0ad158-4a6a-6e80-899c-ebd7762edac6",
+			"modified": "2025-10-19T18:02:08.185Z"
+		},
+		"FILES/Equipment/Apparel/Closed-Cycle Rebreather.md": {
+			"uuid": "1f0ad149-edbe-6e10-9bc3-f143c029f44a",
+			"modified": "2025-10-19T17:55:01.651Z"
+		},
+		"FILES/Equipment/Apparel/Combat Uniform.md": {
+			"uuid": "1f0ad135-0274-64a0-a83b-3c2c0a006718",
+			"modified": "2025-10-19T17:46:41.592Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 57,
+					"end": 77,
+					"href": "Formal Vest",
+					"text": "Vest",
+					"context": "The basic Agarthian infantry armor, included an improved [[Formal Vest|Vest]] and exoskeleton legs capable of carrying large weights and still increase speed and agility.",
+					"to": "FILES/Equipment/Apparel/Formal Vest.md"
+				}
+			]
+		},
+		"FILES/Equipment/Apparel/Flak Jacket.md": {
+			"uuid": "1f0ad12c-1ea7-64f0-878d-e274043dd3c5",
+			"modified": "2025-10-19T17:52:26.673Z"
+		},
+		"FILES/Equipment/Apparel/Formal Vest.md": {
+			"uuid": "1f0ad12d-7b6b-6fa0-aa34-233d54bb5427",
+			"modified": "2025-10-19T17:42:03.977Z"
+		},
+		"FILES/Equipment/Apparel/Hazmat Hood.md": {
+			"uuid": "1f0ad14c-b5df-6910-91e9-4a6c43d9b8bf",
+			"modified": "2025-10-19T17:56:15.999Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 85,
+					"end": 112,
+					"href": "Closed-Cycle Rebreather",
+					"context": "An Agarthian headgear that provides life support with comparable capabilities to the [[Closed-Cycle Rebreather]].",
+					"to": "FILES/Equipment/Apparel/Closed-Cycle Rebreather.md"
+				}
+			]
+		},
+		"FILES/Equipment/Apparel/Heartbeat Sensor.md": {
+			"uuid": "1f0ad167-df09-6550-b4ea-9c895055d431",
+			"modified": "2025-10-19T18:09:44.816Z"
+		},
+		"FILES/Equipment/Apparel/Kevlar Vest.md": {
+			"uuid": "1f0ad12c-c4e8-6580-884b-f82d0b5cfa22",
+			"modified": "2025-10-19T17:51:06.516Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 41,
+					"end": 58,
+					"href": "Light Uniform",
+					"context": "Adding harnesses and armor plates to the [[Light Uniform]] make it ready generic combat missions without overencumbering the soldier.",
+					"to": "FILES/Equipment/Apparel/Light Uniform.md"
+				}
+			]
+		},
+		"FILES/Equipment/Apparel/Light Uniform.md": {
+			"uuid": "1f0ad128-6bac-68d0-b4f8-9cd064ebcb02",
+			"modified": "2025-10-19T17:50:30.548Z"
+		},
+		"FILES/Equipment/Apparel/Multi-Spectral Vision.md": {
+			"uuid": "1f0ad161-522b-6fd0-bbba-969653b8a2fa",
+			"modified": "2025-10-19T18:07:36.050Z"
+		},
+		"FILES/Equipment/Apparel/Pauldrons.md": {
+			"uuid": "1f0ad14e-8990-6920-8763-6106adc9f330",
+			"modified": "2025-10-19T18:00:04.651Z"
+		},
+		"FILES/Equipment/Apparel/Respirator.md": {
+			"uuid": "1f0ad146-42ed-6f70-a808-9bbfdab0df75",
+			"modified": "2025-10-19T17:53:57.846Z"
+		},
+		"FILES/Equipment/Apparel/Support Uniform.md": {
+			"uuid": "1f0ad139-c6c9-6130-b959-82ef271ad611",
+			"modified": "2025-10-19T17:48:09.291Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 13,
+					"end": 31,
+					"href": "Combat Uniform",
+					"context": "An Agarthian [[Combat Uniform]] with added modules for rappelling and a [[Guided Darts|missile launcher]].",
+					"to": "FILES/Equipment/Apparel/Combat Uniform.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 72,
+					"end": 105,
+					"href": "Guided Darts",
+					"text": "missile launcher",
+					"context": "An Agarthian [[Combat Uniform]] with added modules for rappelling and a [[Guided Darts|missile launcher]].",
+					"to": "FILES/Equipment/Weapons/Guided Darts.md"
+				}
+			]
+		},
+		"FILES/Equipment/Apparel/Thermal Night Vision.md": {
+			"uuid": "1f0ad15b-c026-6f40-9973-67050d3cb63e",
+			"modified": "2025-10-19T18:04:29.384Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 122,
+					"end": 145,
+					"href": "Active Night Vision",
+					"context": "A passive infrared sensing googles that allows a Danavo soldier to see in the dark without being detected by someone with [[Active Night Vision]] goggles. More effective at seeing warm things, but can be easily blinded if a room or the air is too warm.",
+					"to": "FILES/Equipment/Apparel/Active Night Vision.md"
+				}
+			]
+		},
+		"FILES/Equipment/Apparel/Twizzler Suit.md": {
+			"uuid": "1f0bc0d0-279d-6160-ae86-939f006bf049",
+			"modified": "2025-11-07T19:10:03.825Z"
+		},
+		"FILES/Equipment/Support Abilities/Climbing Rope.md": {
+			"uuid": "1f0ad11d-9ce7-6180-9794-8ad6dfab2129",
+			"modified": "2025-10-19T17:34:22.873Z"
+		},
+		"FILES/Equipment/Support Abilities/Deployables/Claymore Mine.md": {
+			"uuid": "1f0ad11b-b369-6090-afab-774897968faa",
+			"modified": "2025-10-19T17:33:31.545Z"
+		},
+		"FILES/Equipment/Support Abilities/Deployables/Fly Drone.md": {
+			"uuid": "1f0ad230-7b97-62a0-87b3-d50c5df821b9",
+			"modified": "2025-10-19T19:38:27.557Z"
+		},
+		"FILES/Equipment/Support Abilities/Deployables/New Note.md": {
+			"uuid": "1f0ad233-73b7-6730-9cd5-2b9f58540e35",
+			"modified": "2025-10-19T19:38:41.060Z"
+		},
+		"FILES/Equipment/Support Abilities/Deployables/Remote Explosive.md": {
+			"uuid": "1f0ad11d-1db3-69e0-bf00-81561c643ee4",
+			"modified": "2025-10-19T17:34:09.535Z"
+		},
+		"FILES/Equipment/Support Abilities/Deployables/Sensor Ball.md": {
+			"uuid": "1f0ad22c-bf37-69f0-b671-57c57d0657c1",
+			"modified": "2025-10-19T19:37:14.413Z"
+		},
+		"FILES/Equipment/Support Abilities/Lighting Reflexes.md": {
+			"uuid": "1f0ad11e-8bec-60f0-ac12-6d1edba31f2b",
+			"modified": "2025-10-19T17:34:47.935Z"
+		},
+		"FILES/Equipment/Support Abilities/Melee.md": {
+			"uuid": "1f0ad11f-417b-68d0-99ea-bc262423b9b9",
+			"modified": "2025-10-19T17:35:47.296Z"
+		},
+		"FILES/Equipment/Support Abilities/Noisy Distraction.md": {
+			"uuid": "1f0b686e-14ae-6460-a7b2-a5ef41048713",
+			"modified": "2025-10-31T18:25:23.557Z"
+		},
+		"FILES/Equipment/Support Abilities/Pheromone.md": {
+			"uuid": "1f0ad209-54f5-6b50-8fba-944b056dd98a",
+			"modified": "2025-10-19T19:19:50.407Z"
+		},
+		"FILES/Equipment/Support Abilities/Reaction Shot.md": {
+			"uuid": "1f0ad120-c441-6390-ac78-29bbb67c2ce0",
+			"modified": "2025-10-19T17:36:28.233Z"
+		},
+		"FILES/Equipment/Support Abilities/Repair.md": {
+			"uuid": "1f0ad11b-36bc-6880-bc87-cf5cc5b3d1d5",
+			"modified": "2025-10-19T17:33:18.472Z"
+		},
+		"FILES/Equipment/Support Abilities/Target Tagging.md": {
+			"uuid": "1f0ad11e-127b-6310-a019-5e0ac94ff791",
+			"modified": "2025-10-19T17:34:35.202Z"
+		},
+		"FILES/Equipment/Support Abilities/Taunt.md": {
+			"uuid": "1f0ad11a-cca8-6c50-a7c9-17e39e79048f",
+			"modified": "2025-10-19T17:33:07.348Z"
+		},
+		"FILES/Equipment/Support Abilities/Telekinesis.md": {
+			"uuid": "1f0ad229-e3ae-6ac0-aa99-74608706be96",
+			"modified": "2025-10-19T19:35:28.340Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 21,
+					"end": 40,
+					"href": "Support Uniform",
+					"context": "Agarthians using the [[Support Uniform]] can guide their [[Guided Darts]] to physically interact with objects at a distance.",
+					"to": "FILES/Equipment/Apparel/Support Uniform.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 57,
+					"end": 73,
+					"href": "Guided Darts",
+					"context": "Agarthians using the [[Support Uniform]] can guide their [[Guided Darts]] to physically interact with objects at a distance.",
+					"to": "FILES/Equipment/Weapons/Guided Darts.md"
+				}
+			]
+		},
+		"FILES/Equipment/Support Abilities/Terror.md": {
+			"uuid": "1f0ad122-4ff4-60d0-850f-9fd338d598c3",
+			"modified": "2025-10-19T17:36:39.193Z"
+		},
+		"FILES/Equipment/Weapons/Assault Rifle.md": {
+			"uuid": "1f0ad108-72d4-6ba0-9484-872c96a9c8f0",
+			"modified": "2025-11-08T10:55:49.691Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 37,
+					"data": {
+						"Agarthian Alias": "Sturmofusilo"
+					}
+				}
+			]
+		},
+		"FILES/Equipment/Weapons/Battle Rifle.md": {
+			"uuid": "1f0ad0ed-c3cb-69c0-83de-78de4b929f65",
+			"modified": "2025-11-08T11:20:49.909Z"
+		},
+		"FILES/Equipment/Weapons/Chaingun.md": {
+			"uuid": "1f0ad0e9-b844-6650-8e94-d5a1387c61d9",
+			"modified": "2025-10-19T18:57:53.897Z"
+		},
+		"FILES/Equipment/Weapons/Diverfleksanto.md": {
+			"uuid": "1f0acfe0-62ed-6ad0-8c2b-39122ce9fe5b",
+			"modified": "2025-10-19T19:10:23.710Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 34,
+					"data": {
+						"Warehouse Alias": "Curveball"
+					}
+				}
+			]
+		},
+		"FILES/Equipment/Weapons/Ectoplasm Stun Gun.md": {
+			"uuid": "1f0ad035-7c65-6c10-bc06-d441a073dcc5",
+			"modified": "2025-11-08T11:20:14.084Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 63,
+					"data": {
+						"Warehouse Alias": "Ghostbuster",
+						"Agarthian Alias": "Letargilo"
+					}
+				}
+			]
+		},
+		"FILES/Equipment/Weapons/Grenades.md": {
+			"uuid": "1f0ad117-d0f0-6130-946d-892405ee744d",
+			"modified": "2025-11-08T11:20:49.909Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Fragmentation",
+					"start": 0,
+					"end": 16
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Smoke",
+					"start": 133,
+					"end": 141
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Flash",
+					"start": 285,
+					"end": 293
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Incendiary",
+					"start": 491,
+					"end": 504
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Anesthetic",
+					"start": 629,
+					"end": 642
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Stimulant",
+					"start": 795,
+					"end": 807
+				}
+			]
+		},
+		"FILES/Equipment/Weapons/Guided Darts.md": {
+			"uuid": "1f0ad048-481f-6830-a108-57e75482e377",
+			"modified": "2025-11-08T11:20:49.909Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 36,
+					"data": {
+						"Warehouse Alias": "Will-o-wisp"
+					}
+				}
+			]
+		},
+		"FILES/Equipment/Weapons/Needle Cloud.md": {
+			"uuid": "1f0ad041-83ea-6b00-8d08-43f620ebec76",
+			"modified": "2025-10-19T19:04:54.969Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 34,
+					"data": {
+						"Warehouse Alias": "Razorwire"
+					}
+				}
+			]
+		},
+		"FILES/Equipment/Weapons/Pistol.md": {
+			"uuid": "1f0ad055-dcaf-6830-9f61-0273438e7402",
+			"modified": "2025-11-08T11:01:17.896Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 31,
+					"data": {
+						"Agarthian Alias": "Pikilo"
+					}
+				}
+			]
+		},
+		"FILES/Equipment/Weapons/Scattergun.md": {
+			"uuid": "1f0ad1de-f223-6a60-b706-c39986aae2ac",
+			"modified": "2025-11-08T10:08:58.544Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 35,
+					"data": {
+						"Warehouse Alias": "Scattergun"
+					}
+				}
+			]
+		},
+		"FILES/Equipment/Weapons/Seigro's Invention.md": {
+			"uuid": "1f0b4dbb-ac62-6270-9f7f-171e8087fee9",
+			"modified": "2025-11-08T11:07:10.542Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 57,
+					"data": {
+						"Warehouse Alias": "Phaser",
+						"Agarthian Alias": "Decideco"
+					}
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 88,
+					"end": 126,
+					"href": "Smart Goo and Medallions",
+					"text": "Smart Goo",
+					"context": "A special modification to the [[Smart Goo and Medallions|Smart Goo]] to form into an hard material, so it can be shaped into a firearm. Also known as the Goo Gun, this firearm can reconfigure and produce its own ammunition within.",
+					"to": "FILES/Lore & Worldbuilding/Technology/Smart Goo and Medallions.md"
+				}
+			]
+		},
+		"FILES/Equipment/Weapons/Silk Shot.md": {
+			"uuid": "1f0ad07a-e92a-6db0-9c01-71fdf49e74a0",
+			"modified": "2025-10-19T19:18:54.846Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 31,
+					"data": {
+						"Warehouse Alias": "Phobia"
+					}
+				}
+			]
+		},
+		"FILES/Equipment/Weapons/Stopgap.md": {
+			"uuid": "1f0ad1da-0993-6f60-b1c1-965ed27c3b0d",
+			"modified": "2025-11-08T11:10:18.439Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 31,
+					"data": {
+						"Agarthian Alias": "Kimero"
+					}
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 155,
+					"end": 171,
+					"href": "Guided Darts",
+					"context": "A Danavo pump shotgun which has been adapted in the field to fire Agarthian design self-propelled missiles similar to the [[Guided Darts]]. But instead of being guided, they can airburst at selected ranges, even after penetrating cover.",
+					"to": "FILES/Equipment/Weapons/Guided Darts.md"
+				}
+			]
+		},
+		"FILES/Equipment/Weapons/Submachinegun.md": {
+			"uuid": "1f0ad06e-79f4-6830-9926-42ed4ccce894",
+			"modified": "2025-11-09T15:41:32.783Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 34,
+					"data": {
+						"Agarthian Alias": "Mitraleto"
+					}
+				}
+			]
+		},
+		"FILES/Equipment/Weapons/Transrekto.md": {
+			"uuid": "1f0ad019-53d9-6920-bba2-c9270b1e5872",
+			"modified": "2025-11-08T11:20:49.909Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 34,
+					"data": {
+						"Warehouse Alias": "Raycaster"
+					}
+				}
+			]
+		},
+		"FILES/Game Locations/A Cave.md": {
+			"uuid": "1f0ae7da-c4c9-6350-9be8-1ce023ed235a",
+			"modified": "2025-10-21T13:00:49.804Z"
+		},
+		"FILES/Game Locations/Alien Autopsy.md": {
+			"uuid": "1f0addeb-279f-6f50-a4f8-5a7530c2c567",
+			"modified": "2025-10-20T18:01:31.075Z"
+		},
+		"FILES/Game Locations/Antenna Array.md": {
+			"uuid": "1f0addbf-9fa7-6830-a9cf-da0aaea21d0f",
+			"modified": "2025-10-20T17:43:55.232Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 14,
+					"end": 31,
+					"href": "The Warehouse",
+					"context": "An attempt by [[The Warehouse]] to build an Orgone [[Sanctum|Transceiver]], but instead if just disturbs the [[Orgone]] flow in living beings, causing hallucinations and depressive feelings. Fighting here has a higher chance of panic and fumbling.",
+					"to": "FILES/Characters & Factions/The Warehouse.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 51,
+					"end": 74,
+					"href": "Sanctum",
+					"text": "Transceiver",
+					"context": "An attempt by [[The Warehouse]] to build an Orgone [[Sanctum|Transceiver]], but instead if just disturbs the [[Orgone]] flow in living beings, causing hallucinations and depressive feelings. Fighting here has a higher chance of panic and fumbling.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Sanctum.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 109,
+					"end": 119,
+					"href": "Orgone",
+					"context": "An attempt by [[The Warehouse]] to build an Orgone [[Sanctum|Transceiver]], but instead if just disturbs the [[Orgone]] flow in living beings, causing hallucinations and depressive feelings. Fighting here has a higher chance of panic and fumbling.",
+					"to": "FILES/Lore & Worldbuilding/Orgone.md"
+				}
+			]
+		},
+		"FILES/Game Locations/Anti-Mass Spectrometer.md": {
+			"uuid": "1f0ade19-92ac-6810-a13f-6c3a784c54e4",
+			"modified": "2025-10-20T18:22:06.501Z"
+		},
+		"FILES/Game Locations/Coffin Room.md": {
+			"uuid": "1f0adda0-8ec3-6920-ab62-272ea74ae287",
+			"modified": "2025-10-20T18:25:21.645Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 0,
+					"end": 10,
+					"href": "Orgone",
+					"context": "[[Orgone]] Accumulator pods set in rows across the room where [[The Warehouse]] is trying to replicate the discovery of the Noosphere. The boxes link to a central device that merges the consciousness of the people in all the pods.",
+					"to": "FILES/Lore & Worldbuilding/Orgone.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 62,
+					"end": 79,
+					"href": "The Warehouse",
+					"context": "[[Orgone]] Accumulator pods set in rows across the room where [[The Warehouse]] is trying to replicate the discovery of the Noosphere. The boxes link to a central device that merges the consciousness of the people in all the pods.",
+					"to": "FILES/Characters & Factions/The Warehouse.md"
+				}
+			]
+		},
+		"FILES/Game Locations/Container 62.md": {
+			"uuid": "1f0add77-92b7-6370-9150-6c01b4b53999",
+			"modified": "2025-10-20T17:31:59.336Z"
+		},
+		"FILES/Game Locations/Eco Brutalism.md": {
+			"uuid": "1f0bc875-b2d0-67d0-bcd6-c9416f122211",
+			"modified": "2025-11-08T09:45:28.850Z"
+		},
+		"FILES/Game Locations/Fusion Power Plant.md": {
+			"uuid": "1f0addae-f616-6a60-82e5-b71c365a230f",
+			"modified": "2025-11-08T09:50:08.689Z"
+		},
+		"FILES/Game Locations/Gun on a Rail.md": {
+			"uuid": "1f0ade2e-2fab-6260-a703-5c954c4e845e",
+			"modified": "2025-11-08T09:49:43.748Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 99,
+					"end": 123,
+					"href": "Ectoplasm Generators",
+					"context": "The testing range of a large electromagnetic gun mounted on railway carriage. It uses miniaturized [[Ectoplasm Generators]] that consume its fuel completely at the instant of shooting.",
+					"to": "FILES/Lore & Worldbuilding/Technology/Ectoplasm Generators.md"
+				}
+			]
+		},
+		"FILES/Game Locations/Hangar.md": {
+			"uuid": "1f0adde8-9382-6b30-b63d-d43d2910fd93",
+			"modified": "2025-10-20T18:00:39.621Z"
+		},
+		"FILES/Game Locations/Homely Abode.md": {
+			"uuid": "1f0ade1b-7c34-6540-a221-de9a55b61372",
+			"modified": "2025-10-20T18:27:26.022Z"
+		},
+		"FILES/Game Locations/ICBM Silo.md": {
+			"uuid": "1f0adda8-ed86-6ef0-84b0-9bdf7aa55e69",
+			"modified": "2025-11-08T06:21:42.436Z"
+		},
+		"FILES/Game Locations/Idyllic Ideal.md": {
+			"uuid": "1f0ade27-3b82-6ef0-8909-15d7aa468cbf",
+			"modified": "2025-10-20T18:29:01.567Z"
+		},
+		"FILES/Game Locations/Liminal Labyrinth.md": {
+			"uuid": "1f0addd9-58ed-6970-8b33-bd00e8f50c5a",
+			"modified": "2025-10-21T12:31:42.291Z",
+			"structure": [
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 283,
+					"end": 304,
+					"href": "stalker-1979.jpg",
+					"context": "![[stalker-1979.jpg]]",
+					"to": "FILES/_Media/stalker-1979.jpg"
+				}
+			]
+		},
+		"FILES/Game Locations/Meltdown Power Plant.md": {
+			"uuid": "1f0addb0-8e6e-6c80-82c3-f09c82770e37",
+			"modified": "2025-11-08T09:48:50.181Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 137,
+					"end": 175,
+					"href": "Smart Goo and Medallions",
+					"text": "Smart Goo",
+					"context": "The predecessor power supply for the underground, but which was evacuated and abandoned after a meltdown, turning the place radioactive. [[Smart Goo and Medallions|Smart Goo]] seems to have found its way in here and mutated, behaving like primitive living organisms that feed on radioactivity.",
+					"to": "FILES/Lore & Worldbuilding/Technology/Smart Goo and Medallions.md"
+				}
+			]
+		},
+		"FILES/Game Locations/Miracle Machine.md": {
+			"uuid": "1f0ade3a-6093-6c90-81a1-2da0df024487",
+			"modified": "2025-11-08T09:46:23.010Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 251,
+					"end": 276,
+					"href": "Molecular Synthesizer",
+					"context": "Seigro refers to it as malfunctioning and crude [[Molecular Synthesizer]].",
+					"to": "FILES/Lore & Worldbuilding/Technology/Molecular Synthesizer.md"
+				}
+			]
+		},
+		"FILES/Game Locations/Neutrino Detector.md": {
+			"uuid": "1f0addab-fe4b-6d00-998f-1f14bc5d790f",
+			"modified": "2025-11-08T09:48:12.241Z"
+		},
+		"FILES/Game Locations/Satellite Workshop.md": {
+			"uuid": "1f0ade5e-a4ce-67b0-b771-865f7d5cf527",
+			"modified": "2025-10-20T18:54:51.302Z"
+		},
+		"FILES/Game Locations/Sewer Drain.md": {
+			"uuid": "1f0addbd-c60a-6650-81b2-80961ba57ee6",
+			"modified": "2025-10-20T17:41:04.384Z"
+		},
+		"FILES/Game Locations/Silence Chamber.md": {
+			"uuid": "1f0addd0-9914-6b60-bc3f-023194a4afd7",
+			"modified": "2025-10-20T18:56:20.306Z"
+		},
+		"FILES/Game Locations/Sound of Genesis.md": {
+			"uuid": "1f0addc6-3cc5-6030-b4e4-c370f71693ae",
+			"modified": "2025-11-01T15:03:45.818Z"
+		},
+		"FILES/Game Locations/Synchrotron.md": {
+			"uuid": "1f0addae-251e-68e0-b106-08cdbdf62379",
+			"modified": "2025-10-20T17:40:17.430Z"
+		},
+		"FILES/Game Locations/The Original Sanctum.md": {
+			"uuid": "1f0add78-f456-68f0-b749-ec2c8a38a729",
+			"modified": "2025-11-08T09:47:11.990Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 33,
+					"end": 61,
+					"href": "Sanctum",
+					"text": "Personality Core",
+					"context": "This is where a prototype of the [[Sanctum|Personality Core]] can be found. It serves as a fake out for the anticipation of meeting the Agarthians and Seigro joining them. There's no [[Rainbow Mainframes]] and power has been provided from the occupation by the [[The Warehouse]].",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Sanctum.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 183,
+					"end": 205,
+					"href": "Rainbow Mainframes",
+					"context": "This is where a prototype of the [[Sanctum|Personality Core]] can be found. It serves as a fake out for the anticipation of meeting the Agarthians and Seigro joining them. There's no [[Rainbow Mainframes]] and power has been provided from the occupation by the [[The Warehouse]].",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Rainbow Mainframes.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 261,
+					"end": 278,
+					"href": "The Warehouse",
+					"context": "This is where a prototype of the [[Sanctum|Personality Core]] can be found. It serves as a fake out for the anticipation of meeting the Agarthians and Seigro joining them. There's no [[Rainbow Mainframes]] and power has been provided from the occupation by the [[The Warehouse]].",
+					"to": "FILES/Characters & Factions/The Warehouse.md"
+				}
+			]
+		},
+		"FILES/Game Locations/Think Tank.md": {
+			"uuid": "1f0add92-6f75-6fe0-86ef-29056d01e105",
+			"modified": "2025-11-08T09:47:43.638Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 45,
+					"end": 85,
+					"href": "Agarthian Computers",
+					"text": "Neural Computers",
+					"context": "A giant brain in a vat. In lieu of Agarthian [[Agarthian Computers|Neural Computers]], [[The Warehouse]] attempted to produce substantial amounts of ectoplasm by just having a bigger and denser brain to harvest from.",
+					"to": "FILES/Lore & Worldbuilding/Technology/Agarthian Computers.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 87,
+					"end": 104,
+					"href": "The Warehouse",
+					"context": "A giant brain in a vat. In lieu of Agarthian [[Agarthian Computers|Neural Computers]], [[The Warehouse]] attempted to produce substantial amounts of ectoplasm by just having a bigger and denser brain to harvest from.",
+					"to": "FILES/Characters & Factions/The Warehouse.md"
+				}
+			]
+		},
+		"FILES/Game Locations/Tower of Power.md": {
+			"uuid": "1f0ade34-c4b2-6560-a874-f3000190664b",
+			"modified": "2025-10-20T18:35:55.683Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 38,
+					"end": 58,
+					"href": "Orgone",
+					"text": "ectoplasm",
+					"context": "An abandoned Agarthian facility where [[Orgone|ectoplasm]] stabilization and storage was being researched. A very tall set of self-illuminating pipes rise towards the ceiling and a cold ectoplasm fog spreads on the floor.",
+					"to": "FILES/Lore & Worldbuilding/Orgone.md"
+				}
+			]
+		},
+		"FILES/Gameplay Considerations.md": {
+			"uuid": "1f0ace07-55f3-6170-8e91-b91114ed7269",
+			"modified": "2025-10-20T17:23:28.693Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1433,
+					"end": 1455,
+					"href": "Sanctum",
+					"text": "Dream Cell",
+					"context": "Maybe one of the early discoveries in the story is a \"[[Sanctum|Dream Cell]]\" prototype. This would be  used like a combat simulator, so an hub, where players can select and repeat combat missions.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Sanctum.md"
+				}
+			]
+		},
+		"FILES/Lore & Worldbuilding/Agarthians/Agartha.md": {
+			"uuid": "1f0a28a5-8f7b-6260-b7e6-61c56d7f8e58",
+			"modified": "2025-10-20T10:38:54.117Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 75,
+					"end": 103,
+					"href": "Language",
+					"text": "transliteration",
+					"context": "In Agarthian: \"Agartho\", often shorthanded to \"GRT\" or \"GRTh\" depending on [[Language|transliteration]].",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Language.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 142,
+					"end": 164,
+					"href": "Rainbow Mainframes",
+					"context": "The virtual world that's rendered by [[Rainbow Mainframes]] and allows physical simulation and interaction of the entity that's a merging of all [[Life Cycle|Devio]] consciousnesses. It is possible to communicate with Agartha by entering a [[Sanctum|Personality Core]] and this is how Agarthians are managed and governed. The Devio operate as Agartha's government, so maintaining and defending Mainframes is the reason-d'etre of [[Life Cycle|Adityo]].",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Rainbow Mainframes.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 250,
+					"end": 270,
+					"href": "Life Cycle",
+					"text": "Devio",
+					"context": "The virtual world that's rendered by [[Rainbow Mainframes]] and allows physical simulation and interaction of the entity that's a merging of all [[Life Cycle|Devio]] consciousnesses. It is possible to communicate with Agartha by entering a [[Sanctum|Personality Core]] and this is how Agarthians are managed and governed. The Devio operate as Agartha's government, so maintaining and defending Mainframes is the reason-d'etre of [[Life Cycle|Adityo]].",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Life Cycle.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 345,
+					"end": 373,
+					"href": "Sanctum",
+					"text": "Personality Core",
+					"context": "The virtual world that's rendered by [[Rainbow Mainframes]] and allows physical simulation and interaction of the entity that's a merging of all [[Life Cycle|Devio]] consciousnesses. It is possible to communicate with Agartha by entering a [[Sanctum|Personality Core]] and this is how Agarthians are managed and governed. The Devio operate as Agartha's government, so maintaining and defending Mainframes is the reason-d'etre of [[Life Cycle|Adityo]].",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Sanctum.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 534,
+					"end": 555,
+					"href": "Life Cycle",
+					"text": "Adityo",
+					"context": "The virtual world that's rendered by [[Rainbow Mainframes]] and allows physical simulation and interaction of the entity that's a merging of all [[Life Cycle|Devio]] consciousnesses. It is possible to communicate with Agartha by entering a [[Sanctum|Personality Core]] and this is how Agarthians are managed and governed. The Devio operate as Agartha's government, so maintaining and defending Mainframes is the reason-d'etre of [[Life Cycle|Adityo]].",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Life Cycle.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 2398,
+					"end": 2415,
+					"href": "The Warehouse",
+					"context": "The [[The Warehouse]] alias for the Council of Agartha or their members is \"Majestic 12\".",
+					"to": "FILES/Characters & Factions/The Warehouse.md"
+				}
+			]
+		},
+		"FILES/Lore & Worldbuilding/Agarthians/Architecture.md": {
+			"uuid": "1f0a74b9-eb25-6b00-be8c-7c2dc11a3296",
+			"modified": "2025-10-12T09:14:04.580Z"
+		},
+		"FILES/Lore & Worldbuilding/Agarthians/Contact Telepathy.md": {
+			"uuid": "1f0ac513-3680-6970-b142-49764228a896",
+			"modified": "2025-10-18T19:10:04.046Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 0,
+					"end": 14,
+					"href": "Agarthians",
+					"context": "[[Agarthians]] are capable or relaying thoughts and emotions directly between each other by sharing bodily fluids. This is usually accomplished by tongue kissing and swapping saliva, therefore the action is commonly called \"kissing\". The [[Orgone|Ectoplasm]] in their body acts like \"liquid neurons\" temporarily linking the two brains together as if they were a single brain.",
+					"to": "FILES/Characters & Factions/Agarthians.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 238,
+					"end": 258,
+					"href": "Orgone",
+					"text": "Ectoplasm",
+					"context": "[[Agarthians]] are capable or relaying thoughts and emotions directly between each other by sharing bodily fluids. This is usually accomplished by tongue kissing and swapping saliva, therefore the action is commonly called \"kissing\". The [[Orgone|Ectoplasm]] in their body acts like \"liquid neurons\" temporarily linking the two brains together as if they were a single brain.",
+					"to": "FILES/Lore & Worldbuilding/Orgone.md"
+				}
+			]
+		},
+		"FILES/Lore & Worldbuilding/Agarthians/Language.md": {
+			"uuid": "1f0ad9de-d960-6cf0-bf9d-268cfa796f64",
+			"modified": "2025-10-21T12:42:27.759Z",
+			"structure": [
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 0,
+					"end": 22,
+					"href": "Writing_Guide.png",
+					"context": "![[Writing_Guide.png]]",
+					"to": "FILES/_Media/Writing_Guide.png"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 2236,
+					"end": 2269,
+					"href": "Agarthians",
+					"text": "Council of Agartha",
+					"context": "Depending on in-group culture within Agarthians, there are also tongue clicks, which streamline common simple messages like \"yes\" or \"good\". These vary according to the group, distinguishing them like a shibboleth. The [[Agarthians|Council of Agartha]] recommends three clicks to be consistent and be taught to Danavo allies.",
+					"to": "FILES/Characters & Factions/Agarthians.md"
+				}
+			]
+		},
+		"FILES/Lore & Worldbuilding/Agarthians/Life Cycle.md": {
+			"uuid": "1f0a28a5-8f7b-6261-8fc1-2f0cca468224",
+			"modified": "2025-10-20T11:02:48.734Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 0,
+					"end": 14,
+					"href": "Agarthians",
+					"context": "[[Agarthians]] are produced by ectogenesis from artificial wombs in [[Sanctum|Sancta]]. They are artificially designed so their bodies are improved over natural humans as well as being optimized for the jobs they will be trained on.",
+					"to": "FILES/Characters & Factions/Agarthians.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 68,
+					"end": 86,
+					"href": "Sanctum",
+					"text": "Sancta",
+					"context": "[[Agarthians]] are produced by ectogenesis from artificial wombs in [[Sanctum|Sancta]]. They are artificially designed so their bodies are improved over natural humans as well as being optimized for the jobs they will be trained on.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Sanctum.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 602,
+					"end": 624,
+					"href": "Rainbow Mainframes",
+					"context": "\"Transmigration\" is when a human is mind-uploaded using [[Rainbow Mainframes]], effectively enabling them to access [[Agartha]]. They have a effectively immortal existence in Agartha, waiting to become \"incarnated\" again, once [[Bioprinters]] are invented. Agarthians with physical bodies are called **Adityo**, where those that have moved to Agartha are called **Devio**. The slang \"transported\" is often used by Agarthians, referring to either incarnating or transmigrating. They are granted transmigration after achieving recognition in their job and retiring.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Rainbow Mainframes.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 662,
+					"end": 673,
+					"href": "Agartha",
+					"context": "\"Transmigration\" is when a human is mind-uploaded using [[Rainbow Mainframes]], effectively enabling them to access [[Agartha]]. They have a effectively immortal existence in Agartha, waiting to become \"incarnated\" again, once [[Bioprinters]] are invented. Agarthians with physical bodies are called **Adityo**, where those that have moved to Agartha are called **Devio**. The slang \"transported\" is often used by Agarthians, referring to either incarnating or transmigrating. They are granted transmigration after achieving recognition in their job and retiring.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Agartha.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 773,
+					"end": 788,
+					"href": "Bioprinters",
+					"context": "\"Transmigration\" is when a human is mind-uploaded using [[Rainbow Mainframes]], effectively enabling them to access [[Agartha]]. They have a effectively immortal existence in Agartha, waiting to become \"incarnated\" again, once [[Bioprinters]] are invented. Agarthians with physical bodies are called **Adityo**, where those that have moved to Agartha are called **Devio**. The slang \"transported\" is often used by Agarthians, referring to either incarnating or transmigrating. They are granted transmigration after achieving recognition in their job and retiring.",
+					"to": "FILES/Lore & Worldbuilding/Technology/Bioprinters.md"
+				}
+			]
+		},
+		"FILES/Lore & Worldbuilding/Agarthians/Rainbow Mainframes.md": {
+			"uuid": "1f0a28a5-8f84-6ea1-a55d-9fcaa5137fae",
+			"modified": "2025-10-18T17:10:03.831Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 129,
+					"end": 139,
+					"href": "Orgone",
+					"context": "These are large computers with [[Orgone]] Transceivers that store and execute the consciousnesses of Devio Agarthians and Agartha. They split the Orgone accumulated by these consciousnesses into Ectoplasm generators for power and to relay into the network with other Mainframes.",
+					"to": "FILES/Lore & Worldbuilding/Orgone.md"
+				}
+			]
+		},
+		"FILES/Lore & Worldbuilding/Agarthians/Sanctum.md": {
+			"uuid": "1f0a28a5-8f87-65b0-bc07-4ac2fb29aeac",
+			"modified": "2025-11-01T12:21:34.515Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 43,
+					"end": 115,
+					"href": "Lore & Worldbuilding/Agarthians/Architecture",
+					"text": "Agarthian Architecture ",
+					"context": "The special room of [[Lore & Worldbuilding/Agarthians/Architecture|Agarthian Architecture ]] that's hidden under [[Symposium]] facilities. In this room, [[Artifact Ideas|Agarthian Technology]] is manufactured and everything related to [[Rainbow Mainframes]] is operated. ",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Architecture.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 136,
+					"end": 149,
+					"href": "Symposium",
+					"context": "The special room of [[Lore & Worldbuilding/Agarthians/Architecture|Agarthian Architecture ]] that's hidden under [[Symposium]] facilities. In this room, [[Artifact Ideas|Agarthian Technology]] is manufactured and everything related to [[Rainbow Mainframes]] is operated. ",
+					"to": "FILES/Characters & Factions/Symposium.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 176,
+					"end": 215,
+					"href": "Artifact Ideas",
+					"text": "Agarthian Technology",
+					"context": "The special room of [[Lore & Worldbuilding/Agarthians/Architecture|Agarthian Architecture ]] that's hidden under [[Symposium]] facilities. In this room, [[Artifact Ideas|Agarthian Technology]] is manufactured and everything related to [[Rainbow Mainframes]] is operated. ",
+					"to": "FILES/Lore & Worldbuilding/Technology/Artifact Ideas.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 258,
+					"end": 280,
+					"href": "Rainbow Mainframes",
+					"context": "The special room of [[Lore & Worldbuilding/Agarthians/Architecture|Agarthian Architecture ]] that's hidden under [[Symposium]] facilities. In this room, [[Artifact Ideas|Agarthian Technology]] is manufactured and everything related to [[Rainbow Mainframes]] is operated. ",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Rainbow Mainframes.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 568,
+					"end": 590,
+					"href": "Life Cycle ",
+					"text": " Devio",
+					"context": "At the center is the Personality Core, also known as the \"Dream Cell\".  A rising platform that looks like an altar and lifts a person into sensorial immersion chamber, or virtual reality room. Similar to the Star Trek \"Holodeck\". In here it's possible to communicate with [[Life Cycle | Devio]]. It is also here that transmigration is performed. The body is suspended by sonic levitation and disassembled while the brain is scanned and recorded into Rainbow Mainframes.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Life Cycle.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 872,
+					"end": 892,
+					"href": "Orgone",
+					"text": "ectoplasm",
+					"context": "The staircase leading to the altar sits on top of a Rainbow Mainframe. A series of pipes carry and store [[Orgone|ectoplasm]] produced during the operation of the Mainframe up the walls of the room. They act as the transceiver antennae linking the Mainframe to the Noosphere network. The resulting ectoplasm is carried to an electrical generator on top of the Personality Core where it is used up as fuel and cooling fluid.",
+					"to": "FILES/Lore & Worldbuilding/Orgone.md"
+				}
+			]
+		},
+		"FILES/Lore & Worldbuilding/Agarthians/Scripture.md": {
+			"uuid": "1f0ac43f-949e-6040-ab54-e9a64b2c5e34",
+			"modified": "2025-11-08T10:51:15.394Z"
+		},
+		"FILES/Lore & Worldbuilding/DUMB.md": {
+			"uuid": "1f0a28a5-8f89-6cc1-8c51-0a558c388797",
+			"modified": "2025-11-13T21:20:16.071Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 306,
+					"end": 319,
+					"href": "Symposium",
+					"context": "These tunnels are usually deeper than [[Symposium]] underground facilities, but [[Agarthians]] have a suspicion that they exist, although unable to find them.",
+					"to": "FILES/Characters & Factions/Symposium.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 348,
+					"end": 362,
+					"href": "Agarthians",
+					"context": "These tunnels are usually deeper than [[Symposium]] underground facilities, but [[Agarthians]] have a suspicion that they exist, although unable to find them.",
+					"to": "FILES/Characters & Factions/Agarthians.md"
+				}
+			]
+		},
+		"FILES/Lore & Worldbuilding/Music.md": {
+			"uuid": "1f0ad26a-67da-6520-bd89-d7f60ec924b1",
+			"modified": "2025-10-19T20:09:08.776Z"
+		},
+		"FILES/Lore & Worldbuilding/Orgone.md": {
+			"uuid": "1f0a28a5-8f8c-63d0-abd0-9f5a0fbbe989",
+			"modified": "2025-10-18T18:21:27.195Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 133,
+					"end": 147,
+					"href": "Agarthians",
+					"context": "There is a field around the Earth that is unknown to common humans and is named \"**Noosphere**\". Its discovery is what distinguishes [[Agarthians]] and propelled them to become much more advanced. It is similar to the magnetic field of the Earth, but doesn't interact through electromagnetic forces and instead it's an accumulation information produced by living beings with their minds and as they counteract entropy.",
+					"to": "FILES/Characters & Factions/Agarthians.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1444,
+					"end": 1466,
+					"href": "Rainbow Mainframes",
+					"context": "The most important development from this knowledge are the [[Rainbow Mainframes]] which enable Agarthians to have their minds uploaded and unbound by physical limitations.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Rainbow Mainframes.md"
+				}
+			]
+		},
+		"FILES/Lore & Worldbuilding/Technology/Agarthian Computers.md": {
+			"uuid": "1f0b71f4-9c48-6350-8220-1695da022544",
+			"modified": "2025-11-08T10:45:20.488Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 86,
+					"data": {
+						"Warehouse Alias": "Transpirator",
+						"Agarthian Name": "Optikomputilo (Optical Computer)"
+					}
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 523,
+					"end": 543,
+					"href": "Orgone",
+					"text": "ectoplasm",
+					"context": "In an attempt to make devices that translate orgone into electronics and back, slices with networks of artificially grown neurons were invented. The amount of connections to interface with these neurons also makes electronic wiring unpractical, so neurons enhanced to sense [[Orgone|ectoplasm]] are also modified to be luminescent and light sensitive, emitting addressable signals that are received by optotransistors and also responding to light pulses in an optics fiber cable.",
+					"to": "FILES/Lore & Worldbuilding/Orgone.md"
+				}
+			]
+		},
+		"FILES/Lore & Worldbuilding/Technology/Artifact Ideas.md": {
+			"uuid": "1f0a28a5-8f84-6ea0-a919-f51f589bf5d8",
+			"modified": "2025-11-17T09:32:45.056Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Agarthian Design",
+					"start": 0,
+					"end": 20
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Warehouse Design",
+					"start": 125,
+					"end": 145
+				}
+			]
+		},
+		"FILES/Lore & Worldbuilding/Technology/Artificial Wombs.md": {
+			"uuid": "1f0b7203-e332-60e0-8284-8c13109f39e4",
+			"modified": "2025-11-01T13:13:45.842Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 64,
+					"data": {
+						"Warehouse Alias": "Cocoon",
+						"Agarthian Name": "Biosinteza Utero"
+					}
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 111,
+					"end": 135,
+					"href": "Life Cycle",
+					"text": "reproduce",
+					"context": "Agarthians rely on large artificial wombs to [[Life Cycle|reproduce]] These grow any correctly programmed embryo either into a new human body, but also organic devices, without human involvement. This is called \"Ectogenesis\". Although Agarthians can't reproduce themselves, their own wombs can also be used to produce technology in the same way if necessary.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Life Cycle.md"
+				}
+			]
+		},
+		"FILES/Lore & Worldbuilding/Technology/Bioprinters.md": {
+			"uuid": "1f0a28a5-8f89-6cc0-a1c6-b1dc4ad85398",
+			"modified": "2025-11-01T13:41:12.487Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 47,
+					"data": {
+						"Agarthian Alias": "Fabrikeio (Fabricator)"
+					}
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 107,
+					"end": 127,
+					"href": "Life Cycle",
+					"text": "Devio",
+					"context": "An elusive technology that Agarthians seek. It would allow [[Life Cycle|Devio]] to construct a human organic body to which their consciousness can be downloaded, therefore resuming life in the physical world.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Life Cycle.md"
+				}
+			]
+		},
+		"FILES/Lore & Worldbuilding/Technology/Ectoplasm Generators.md": {
+			"uuid": "1f0b71db-3390-6b00-bb32-60473480c345",
+			"modified": "2025-11-08T10:20:46.761Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 91,
+					"data": {
+						"Warehouse Alias": "Quirk",
+						"Agarthian Name": "Ektoplasma Frida-Uzino (Ectoplasm Cold Mill)"
+					}
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 109,
+					"end": 129,
+					"href": "Orgone",
+					"text": "Ectoplasm",
+					"context": "It is known that [[Orgone|Ectoplasm]] spontaneously draws surrounding heat as it dissipates. Agarthians have harnessed this property to run heat engines in reverse, thus producing electricity. [[Rainbow Mainframes]] require large amounts of power, so drawing from Danavo sources would leave suspicious traces. [[Sanctum|Sancta]] always have four generators on the ceiling. These generators are too large for any portable application, so usually Smart Goo is used as a power source instead.",
+					"to": "FILES/Lore & Worldbuilding/Orgone.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 285,
+					"end": 307,
+					"href": "Rainbow Mainframes",
+					"context": "It is known that [[Orgone|Ectoplasm]] spontaneously draws surrounding heat as it dissipates. Agarthians have harnessed this property to run heat engines in reverse, thus producing electricity. [[Rainbow Mainframes]] require large amounts of power, so drawing from Danavo sources would leave suspicious traces. [[Sanctum|Sancta]] always have four generators on the ceiling. These generators are too large for any portable application, so usually Smart Goo is used as a power source instead.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Rainbow Mainframes.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 402,
+					"end": 420,
+					"href": "Sanctum",
+					"text": "Sancta",
+					"context": "It is known that [[Orgone|Ectoplasm]] spontaneously draws surrounding heat as it dissipates. Agarthians have harnessed this property to run heat engines in reverse, thus producing electricity. [[Rainbow Mainframes]] require large amounts of power, so drawing from Danavo sources would leave suspicious traces. [[Sanctum|Sancta]] always have four generators on the ceiling. These generators are too large for any portable application, so usually Smart Goo is used as a power source instead.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Sanctum.md"
+				}
+			]
+		},
+		"FILES/Lore & Worldbuilding/Technology/Ectoplasm Vials.md": {
+			"uuid": "1f0b71fa-3dc2-6c30-8fcb-e2116f54fbde",
+			"modified": "2025-11-08T10:42:51.520Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 57,
+					"data": {
+						"Warehouse Alias": "Keycard",
+						"Agarthian Name": "Memorilo"
+					}
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 167,
+					"end": 196,
+					"href": "Contact Telepathy",
+					"text": "lick it",
+					"context": "A seemingly inert ampule containing stable ectoplasm. It stores computer information and Agarthians can even [[Contact Telepathy|lick it]] to reproduce emotions or memories between individuals that were recorded like a photograph.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Contact Telepathy.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 290,
+					"end": 307,
+					"href": "The Warehouse",
+					"context": "[[The Warehouse]] started naming them \"Keycard\" after realizing that some vials could be used to unlock doors or start up exotic devices, as if they were authentication or decryption devices.",
+					"to": "FILES/Characters & Factions/The Warehouse.md"
+				}
+			]
+		},
+		"FILES/Lore & Worldbuilding/Technology/Genetic Engineering and Organic Technology.md": {
+			"uuid": "1f0b71d4-e701-6bf0-b8c8-ff05cacdb317",
+			"modified": "2025-11-01T13:28:48.629Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 93,
+					"data": {
+						"Warehouse Alias": "Biomecha",
+						"Agarthian Name": "Biosinteza Aparato(Bio-synthetic Appliance)"
+					}
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 129,
+					"end": 139,
+					"href": "Orgone",
+					"context": "It isn't possible to interact with [[Orgone]] without biological neurons, or electronics alone, so a lot of effort was put by Agarthians into understanding how to manipulate biology and grow synthetic neurons with enhanced Ectoplasm producing and sensing abilities. These were used to translate Orgone into electronic signals a machine can use, but once they tried genetically manipulating human bodies to have these enhanced neurons, they discovered it was possible to communicate telepathically.",
+					"to": "FILES/Lore & Worldbuilding/Orgone.md"
+				}
+			]
+		},
+		"FILES/Lore & Worldbuilding/Technology/Mind Uploading.md": {
+			"uuid": "1f0b71f4-07fe-6c80-a010-70f07f8b279e",
+			"modified": "2025-11-08T10:48:06.191Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 66,
+					"data": {
+						"Agarthian Name": "Homa Transmigrigado (Human Transmigration)"
+					}
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 322,
+					"end": 351,
+					"href": "Life Cycle",
+					"text": "Transmigration",
+					"context": "The logical conclusion of mind-machine interfaces was the ability to record the state of a brain with large bandwidth. Quickly came the realization that people could be emulated within computers, free of the limitations of physical bodies. This is called [[Life Cycle|Transmigration]] and upkeeping the resulting [[Life Cycle|Devio]] became the reason of being for Agarthians wishing to join in.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Life Cycle.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 380,
+					"end": 400,
+					"href": "Life Cycle",
+					"text": "Devio",
+					"context": "The logical conclusion of mind-machine interfaces was the ability to record the state of a brain with large bandwidth. Quickly came the realization that people could be emulated within computers, free of the limitations of physical bodies. This is called [[Life Cycle|Transmigration]] and upkeeping the resulting [[Life Cycle|Devio]] became the reason of being for Agarthians wishing to join in.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Life Cycle.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 564,
+					"end": 574,
+					"href": "Orgone",
+					"context": "In practice, the state of the human brain is not simulated in Rainbow Mainframes, but rather, their [[Orgone]] patterns in the Noosphere are sustained by interacting with it like biological brains do. There is, therefore a continuity of existence of the transmigrated minds, rather than duplication.",
+					"to": "FILES/Lore & Worldbuilding/Orgone.md"
+				}
+			]
+		},
+		"FILES/Lore & Worldbuilding/Technology/Mind-Machine Interfaces.md": {
+			"uuid": "1f0b71fb-5fa3-6bf0-b5dd-62df281e2f9f",
+			"modified": "2025-11-08T10:40:46.070Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 38,
+					"data": {
+						"Agarthian Name": "Kiso (Kissing)"
+					}
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 39,
+					"end": 60,
+					"href": "Contact Telepathy",
+					"context": "[[Contact Telepathy]] is often performed between people, but it was originally developed as a way to control technology. Able to produce ectoplasm carrying their intentions, machines respond as extensions of Agarthian's bodies without the need for levers or keyboards. Likewise, Agarthians can read ectoplasm from their machines and receive pictures, sound and sensations which are perceived like recalling a memory, so screen displays and electronics speakers are rare in Agarthian devices.",
+					"to": "FILES/Lore & Worldbuilding/Agarthians/Contact Telepathy.md"
+				}
+			]
+		},
+		"FILES/Lore & Worldbuilding/Technology/Molecular Synthesizer.md": {
+			"uuid": "1f0b7202-a67d-6650-83f9-957927bfff69",
+			"modified": "2025-11-01T13:30:58.139Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 86,
+					"data": {
+						"Warehouse Alias": "Whirlgigs",
+						"Agarthian Name": "Micro-Sintezilo (Micro Synthesizer)"
+					}
+				}
+			]
+		},
+		"FILES/Lore & Worldbuilding/Technology/Smart Goo and Medallions.md": {
+			"uuid": "1f0b71fc-c201-6850-8a7f-b47479a1e522",
+			"modified": "2025-11-08T10:38:24.214Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 92,
+					"data": {
+						"Warehouse Alias": "Ink and Inkwell",
+						"Agarthian Name": "Spritilo (Smart Tool) and Medaliono"
+					}
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1484,
+					"end": 1502,
+					"href": "Silk Shot",
+					"text": "Silk",
+					"context": "6. Pumping and projecting [[Silk Shot|Silk]]",
+					"to": "FILES/Equipment/Weapons/Silk Shot.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1653,
+					"end": 1675,
+					"href": "Seigro's Invention",
+					"context": "The formula for Smart Goo can be adjusted to optimize different uses. It can be made to be more rigid like in [[Seigro's Invention]] or as armor.",
+					"to": "FILES/Equipment/Weapons/Seigro's Invention.md"
+				}
+			]
+		},
+		"FILES/_Media/Agartha_Coat_of_Arms_Embossed.png": {
+			"uuid": "1f0cbb41-1a4a-6500-bc0b-3b503d529adb"
+		},
+		"FILES/_Media/Agarthian_Concept_Casual.png": {
+			"uuid": "1f0cbb41-1a4a-6501-8f86-cddb521a6d5d"
+		},
+		"FILES/_Media/Writing_Guide.png": {
+			"uuid": "1f0cbb41-1a4c-6c10-80ec-856a796f92f2"
+		},
+		"FILES/_Media/stalker-1979.jpg": {
+			"uuid": "1f0cbb41-1a4a-6505-a153-fe0eeeea2533"
+		}
+	}
+}

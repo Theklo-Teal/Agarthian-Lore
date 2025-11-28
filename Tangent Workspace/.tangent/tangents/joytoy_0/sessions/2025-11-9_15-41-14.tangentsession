@@ -1,0 +1,44 @@
+{
+	"threadHistory": [
+		{
+			"thread": [
+				"FILES/Equipment/Weapons"
+			],
+			"currentNode": "FILES/Equipment/Weapons"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons",
+				"FILES/Equipment/Weapons/Submachinegun.md"
+			],
+			"currentNode": "FILES/Equipment/Weapons/Submachinegun.md"
+		}
+	],
+	"threadIndex": 1,
+	"previousSession": "FILES/.tangent/tangents/joytoy_0/sessions/2025-11-8_6-21-34.tangentsession",
+	"map": {
+		"nodes": {
+			"FILES/Equipment/Weapons": {
+				"node": "FILES/Equipment/Weapons",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-11-09T15:41:14.592Z"
+			},
+			"FILES/Equipment/Weapons/Submachinegun.md": {
+				"node": "FILES/Equipment/Weapons/Submachinegun.md",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-11-09T15:41:14.593Z"
+			}
+		},
+		"connections": [
+			{
+				"from": "FILES/Equipment/Weapons",
+				"to": "FILES/Equipment/Weapons/Submachinegun.md",
+				"strength": 3,
+				"dateCreated": "2025-11-09T15:41:14.594Z"
+			}
+		]
+	},
+	"version": 1
+}

@@ -1,0 +1,36 @@
+{
+	"threadHistory": [
+		{
+			"thread": [
+				"FILES/Background Story.md"
+			],
+			"currentNode": "FILES/Background Story.md"
+		},
+		{
+			"thread": [
+				"FILES/Lore & Worldbuilding/DUMB.md"
+			],
+			"currentNode": "FILES/Lore & Worldbuilding/DUMB.md"
+		}
+	],
+	"threadIndex": 1,
+	"previousSession": "FILES/.tangent/tangents/joytoy_0/sessions/2025-11-9_15-41-14.tangentsession",
+	"map": {
+		"nodes": {
+			"FILES/Background Story.md": {
+				"node": "FILES/Background Story.md",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-11-13T21:19:09.329Z"
+			},
+			"FILES/Lore & Worldbuilding/DUMB.md": {
+				"node": "FILES/Lore & Worldbuilding/DUMB.md",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-11-13T21:19:17.043Z"
+			}
+		},
+		"connections": []
+	},
+	"version": 1
+}

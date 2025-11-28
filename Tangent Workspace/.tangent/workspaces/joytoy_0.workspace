@@ -1,0 +1,43 @@
+{
+	"directoryView": {
+		"openDirectories": [
+			"FILES/Lore & Worldbuilding",
+			"FILES/Equipment"
+		],
+		"selection": [
+			"FILES/_Media/Agarthian_Concept_Casual.png"
+		],
+		"sortMode": "name|ascending",
+		"sortFoldersToTop": true,
+		"sortQueriesToTop": true
+	},
+	"tagTreeView": {
+		"openDirectories": [],
+		"selection": [
+			"FILES/_Media/Agarthian_Concept_Casual.png"
+		],
+		"sortMode": "name|ascending",
+		"sortFoldersToTop": true,
+		"sortQueriesToTop": true
+	},
+	"leftSidebar": {
+		"size": 335,
+		"mode": 1,
+		"lastUnfocusedMode": 1,
+		"lastFocusedMode": 0,
+		"currentTab": "files"
+	},
+	"targetFocusModeLevel": 1,
+	"system": {
+		"showMenu": false,
+		"section": "Attachments"
+	},
+	"version": 3,
+	"window_state": {
+		"x": 0,
+		"y": 78,
+		"width": 1920,
+		"height": 1122,
+		"fullscreen": false
+	}
+}

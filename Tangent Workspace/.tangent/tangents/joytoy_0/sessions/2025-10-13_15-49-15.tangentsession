@@ -1,0 +1,80 @@
+{
+	"threadHistory": [
+		{
+			"thread": [
+				"FILES/Lore & Worldbuilding/Orgone.md"
+			],
+			"currentNode": "FILES/Lore & Worldbuilding/Orgone.md"
+		},
+		{
+			"thread": [
+				"FILES/Characters & Factions"
+			],
+			"currentNode": "FILES/Characters & Factions"
+		},
+		{
+			"thread": [
+				"FILES/Characters & Factions",
+				"FILES/Characters & Factions/Symposium.md"
+			],
+			"currentNode": "FILES/Characters & Factions/Symposium.md"
+		},
+		{
+			"thread": [
+				"FILES/Lore & Worldbuilding"
+			],
+			"currentNode": "FILES/Lore & Worldbuilding"
+		}
+	],
+	"threadIndex": 3,
+	"previousSession": "FILES/.tangent/tangents/joytoy_0/sessions/2025-10-6_8-59-13.tangentsession",
+	"map": {
+		"nodes": {
+			"FILES/Lore & Worldbuilding/Orgone.md": {
+				"node": "FILES/Lore & Worldbuilding/Orgone.md",
+				"isRoot": true,
+				"strength": 2,
+				"dateCreated": "2025-10-13T14:49:16.195Z"
+			},
+			"FILES/Characters & Factions": {
+				"node": "FILES/Characters & Factions",
+				"isRoot": true,
+				"strength": 3,
+				"dateCreated": "2025-10-13T14:50:50.453Z"
+			},
+			"FILES/Characters & Factions/Symposium.md": {
+				"node": "FILES/Characters & Factions/Symposium.md",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-10-13T14:51:07.135Z"
+			},
+			"FILES/Lore & Worldbuilding": {
+				"node": "FILES/Lore & Worldbuilding",
+				"isRoot": true,
+				"strength": 2,
+				"dateCreated": "2025-10-13T14:51:43.907Z"
+			},
+			"FILES/Characters & Factions/The Warehouse.md": {
+				"node": "FILES/Characters & Factions/The Warehouse.md",
+				"isRoot": false,
+				"strength": 0,
+				"dateCreated": "2025-10-19T11:31:35.506Z"
+			},
+			"FILES/Lore & Worldbuilding/Agarthians/Language.md": {
+				"node": "FILES/Lore & Worldbuilding/Agarthians/Language.md",
+				"isRoot": false,
+				"strength": 0,
+				"dateCreated": "2025-10-20T10:17:08.672Z"
+			}
+		},
+		"connections": [
+			{
+				"from": "FILES/Characters & Factions",
+				"to": "FILES/Characters & Factions/Symposium.md",
+				"strength": 3,
+				"dateCreated": "2025-10-13T14:51:07.136Z"
+			}
+		]
+	},
+	"version": 1
+}

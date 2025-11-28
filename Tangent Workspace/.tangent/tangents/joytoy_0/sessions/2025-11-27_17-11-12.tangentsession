@@ -1,0 +1,283 @@
+{
+	"threadHistory": [
+		{
+			"thread": [
+				"FILES/Equipment/Weapons",
+				"FILES/Equipment/Weapons/Stopgap.md"
+			],
+			"currentNode": "FILES/Equipment/Weapons/Stopgap.md"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons",
+				"FILES/Equipment/Weapons/Stopgap.md"
+			],
+			"currentNode": "FILES/Equipment/Weapons"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons",
+				"FILES/Equipment/Weapons/Stopgap.md"
+			],
+			"currentNode": "FILES/Equipment/Weapons/Stopgap.md"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons",
+				"FILES/Equipment/Weapons/Assault Rifle.md"
+			],
+			"currentNode": "FILES/Equipment/Weapons/Assault Rifle.md"
+		},
+		{
+			"thread": [
+				"FILES/Characters & Factions"
+			],
+			"currentNode": "FILES/Characters & Factions"
+		},
+		{
+			"thread": [
+				"FILES/Characters & Factions",
+				"FILES/Characters & Factions/Agarthians.md"
+			],
+			"currentNode": "FILES/Characters & Factions/Agarthians.md"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Apparel"
+			],
+			"currentNode": "FILES/Equipment/Apparel"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons"
+			],
+			"currentNode": "FILES/Equipment/Weapons"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Support Abilities"
+			],
+			"currentNode": "FILES/Equipment/Support Abilities"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons"
+			],
+			"currentNode": "FILES/Equipment/Weapons"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Support Abilities"
+			],
+			"currentNode": "FILES/Equipment/Support Abilities"
+		},
+		{
+			"thread": [
+				"FILES/_Media"
+			],
+			"currentNode": "FILES/_Media"
+		},
+		{
+			"thread": [
+				"FILES/_Media",
+				"FILES/_Media/stalker-1979.jpg"
+			],
+			"currentNode": "FILES/_Media/stalker-1979.jpg"
+		},
+		{
+			"thread": [
+				"FILES/Game Locations"
+			],
+			"currentNode": "FILES/Game Locations"
+		},
+		{
+			"thread": [
+				"FILES/Game Locations",
+				"FILES/Game Locations/Sound of Genesis.md"
+			],
+			"currentNode": "FILES/Game Locations/Sound of Genesis.md"
+		},
+		{
+			"thread": [
+				"FILES/Game Locations",
+				"FILES/Game Locations/Sound of Genesis.md"
+			],
+			"currentNode": "FILES/Game Locations"
+		},
+		{
+			"thread": [
+				"FILES/Game Locations",
+				"FILES/Game Locations/Coffin Room.md"
+			],
+			"currentNode": "FILES/Game Locations/Coffin Room.md"
+		},
+		{
+			"thread": [
+				"FILES/_Media"
+			],
+			"currentNode": "FILES/_Media"
+		},
+		{
+			"thread": [
+				"FILES/_Media",
+				"FILES/_Media/Writing_Guide.png"
+			],
+			"currentNode": "FILES/_Media/Writing_Guide.png"
+		},
+		{
+			"thread": [
+				"FILES/_Media",
+				"FILES/_Media/Writing_Guide.png"
+			],
+			"currentNode": "FILES/_Media"
+		},
+		{
+			"thread": [
+				"FILES/_Media",
+				"FILES/_Media/Agarthian_Concept_Casual.png"
+			],
+			"currentNode": "FILES/_Media/Agarthian_Concept_Casual.png"
+		}
+	],
+	"threadIndex": 20,
+	"previousSession": "FILES/.tangent/tangents/joytoy_0/sessions/2025-11-27_17-11-12.tangentsession",
+	"map": {
+		"nodes": {
+			"FILES/Equipment/Weapons/Stopgap.md": {
+				"node": "FILES/Equipment/Weapons/Stopgap.md",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:11:13.279Z"
+			},
+			"FILES/Equipment/Weapons": {
+				"node": "FILES/Equipment/Weapons",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:11:13.280Z"
+			},
+			"FILES/Equipment/Weapons/Assault Rifle.md": {
+				"node": "FILES/Equipment/Weapons/Assault Rifle.md",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:11:13.282Z"
+			},
+			"FILES/Characters & Factions": {
+				"node": "FILES/Characters & Factions",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:11:19.044Z"
+			},
+			"FILES/Characters & Factions/Agarthians.md": {
+				"node": "FILES/Characters & Factions/Agarthians.md",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:11:20.385Z"
+			},
+			"FILES/Equipment/Apparel": {
+				"node": "FILES/Equipment/Apparel",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-11-27T17:20:03.318Z"
+			},
+			"FILES/Equipment/Support Abilities": {
+				"node": "FILES/Equipment/Support Abilities",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-11-27T17:20:04.700Z"
+			},
+			"FILES/_Media": {
+				"node": "FILES/_Media",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:24:37.104Z"
+			},
+			"FILES/_Media/stalker-1979.jpg": {
+				"node": "FILES/_Media/stalker-1979.jpg",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:24:41.998Z"
+			},
+			"FILES/Game Locations": {
+				"node": "FILES/Game Locations",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:25:33.373Z"
+			},
+			"FILES/Game Locations/Sound of Genesis.md": {
+				"node": "FILES/Game Locations/Sound of Genesis.md",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:26:06.645Z"
+			},
+			"FILES/Game Locations/Coffin Room.md": {
+				"node": "FILES/Game Locations/Coffin Room.md",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:27:46.110Z"
+			},
+			"FILES/_Media/Writing_Guide.png": {
+				"node": "FILES/_Media/Writing_Guide.png",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:28:57.952Z"
+			},
+			"FILES/_Media/Agarthian_Concept_Casual.png": {
+				"node": "FILES/_Media/Agarthian_Concept_Casual.png",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:29:40.766Z"
+			}
+		},
+		"connections": [
+			{
+				"from": "FILES/Equipment/Weapons",
+				"to": "FILES/Equipment/Weapons/Stopgap.md",
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:11:13.280Z"
+			},
+			{
+				"from": "FILES/Equipment/Weapons",
+				"to": "FILES/Equipment/Weapons/Assault Rifle.md",
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:11:13.282Z"
+			},
+			{
+				"from": "FILES/Characters & Factions",
+				"to": "FILES/Characters & Factions/Agarthians.md",
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:11:20.385Z"
+			},
+			{
+				"from": "FILES/_Media",
+				"to": "FILES/_Media/stalker-1979.jpg",
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:24:41.999Z"
+			},
+			{
+				"from": "FILES/Game Locations",
+				"to": "FILES/Game Locations/Sound of Genesis.md",
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:26:06.646Z"
+			},
+			{
+				"from": "FILES/Game Locations",
+				"to": "FILES/Game Locations/Coffin Room.md",
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:27:46.111Z"
+			},
+			{
+				"from": "FILES/_Media",
+				"to": "FILES/_Media/Writing_Guide.png",
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:28:57.952Z"
+			},
+			{
+				"from": "FILES/_Media",
+				"to": "FILES/_Media/Agarthian_Concept_Casual.png",
+				"strength": 3,
+				"dateCreated": "2025-11-27T17:29:40.766Z"
+			}
+		]
+	},
+	"version": 1
+}

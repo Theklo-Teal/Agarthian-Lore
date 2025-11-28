@@ -1,0 +1,7 @@
+This repository stores a collection of markdown files produced using [Tangent by Taylor Haden](https://github.com/suchnsuch/Tangent). The texts within are the brainstorming and worldbuilding writing I've been doing towards developing the narrative of [Cross Pollinator](https://github.com/Theklo-Teal/Cross-Pollinator). Most of it is about the "Agarthians" the exotic faction in contrast with all other characters being current world military organizations, so there wasn't much of interesting to tell about them.
+
+In the real world, "Agartha" is a mythical city under the Earth's crust that was rumoured to exist among people claiming Hollow Earth Hypothesis. In this context, it's pseudo-science. But in my stories, I appropriated the name for a faction of highly advanced people who want to hide the technology that gives them an advantage from the common surface humans. My Agarthians don't live underground literally, but they are capable of mind-uploading which frees them from the violence of nature. The virtual city where their minds converge is called Agartha.
+
+Developing the game has been tough, mostly because of my mental issues. But I was excited at developing and giving life to Agarthians and couldn't wait until I was able to put them in my game project. I've also written and drawn things about them in unrelated side stories. Doing this grew into my coping mechanism to deal with loneliness.
+
+I wonder what Agarthians will mean for you.

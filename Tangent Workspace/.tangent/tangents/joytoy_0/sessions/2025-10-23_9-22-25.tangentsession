@@ -1,0 +1,48 @@
+{
+	"threadHistory": [
+		{
+			"thread": [
+				"FILES/Equipment/Weapons"
+			],
+			"currentNode": "FILES/Equipment/Weapons"
+		},
+		{
+			"thread": [
+				"FILES/Background Story.md"
+			],
+			"currentNode": "FILES/Background Story.md"
+		},
+		{
+			"thread": [
+				"FILES/Gameplay Considerations.md"
+			],
+			"currentNode": "FILES/Gameplay Considerations.md"
+		}
+	],
+	"threadIndex": 2,
+	"previousSession": "FILES/.tangent/tangents/joytoy_0/sessions/2025-10-22_9-32-17.tangentsession",
+	"map": {
+		"nodes": {
+			"FILES/Equipment/Weapons": {
+				"node": "FILES/Equipment/Weapons",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-10-23T08:22:26.040Z"
+			},
+			"FILES/Background Story.md": {
+				"node": "FILES/Background Story.md",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-10-23T08:23:44.383Z"
+			},
+			"FILES/Gameplay Considerations.md": {
+				"node": "FILES/Gameplay Considerations.md",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-10-23T08:23:50.962Z"
+			}
+		},
+		"connections": []
+	},
+	"version": 1
+}

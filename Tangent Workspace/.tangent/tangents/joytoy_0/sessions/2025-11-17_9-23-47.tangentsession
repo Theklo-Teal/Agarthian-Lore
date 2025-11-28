@@ -1,0 +1,118 @@
+{
+	"threadHistory": [
+		{
+			"thread": [
+				"FILES/Lore & Worldbuilding"
+			],
+			"currentNode": "FILES/Lore & Worldbuilding"
+		},
+		{
+			"thread": [
+				"FILES/Lore & Worldbuilding/Technology"
+			],
+			"currentNode": "FILES/Lore & Worldbuilding/Technology"
+		},
+		{
+			"thread": [
+				"FILES/Lore & Worldbuilding/Technology",
+				"FILES/Lore & Worldbuilding/Technology/Artifact Ideas.md"
+			],
+			"currentNode": "FILES/Lore & Worldbuilding/Technology/Artifact Ideas.md"
+		},
+		{
+			"thread": [
+				"FILES/Lore & Worldbuilding/Technology"
+			],
+			"currentNode": "FILES/Lore & Worldbuilding/Technology"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons"
+			],
+			"currentNode": "FILES/Equipment/Weapons"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons",
+				"FILES/Equipment/Weapons/Seigro's Invention.md"
+			],
+			"currentNode": "FILES/Equipment/Weapons/Seigro's Invention.md"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons"
+			],
+			"currentNode": "FILES/Equipment/Weapons"
+		},
+		{
+			"thread": [
+				"FILES/Equipment/Weapons",
+				"FILES/Equipment/Weapons/Stopgap.md"
+			],
+			"currentNode": "FILES/Equipment/Weapons/Stopgap.md"
+		}
+	],
+	"threadIndex": 7,
+	"previousSession": "FILES/.tangent/tangents/joytoy_0/sessions/2025-11-13_21-19-9.tangentsession",
+	"map": {
+		"nodes": {
+			"FILES/Lore & Worldbuilding": {
+				"node": "FILES/Lore & Worldbuilding",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-11-17T09:23:47.333Z"
+			},
+			"FILES/Lore & Worldbuilding/Technology": {
+				"node": "FILES/Lore & Worldbuilding/Technology",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-11-17T09:23:50.366Z"
+			},
+			"FILES/Lore & Worldbuilding/Technology/Artifact Ideas.md": {
+				"node": "FILES/Lore & Worldbuilding/Technology/Artifact Ideas.md",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-11-17T09:23:51.761Z"
+			},
+			"FILES/Equipment/Weapons": {
+				"node": "FILES/Equipment/Weapons",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-11-17T13:03:05.970Z"
+			},
+			"FILES/Equipment/Weapons/Seigro's Invention.md": {
+				"node": "FILES/Equipment/Weapons/Seigro's Invention.md",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-11-17T13:11:04.118Z"
+			},
+			"FILES/Equipment/Weapons/Stopgap.md": {
+				"node": "FILES/Equipment/Weapons/Stopgap.md",
+				"isRoot": false,
+				"strength": 3,
+				"dateCreated": "2025-11-17T13:15:25.385Z"
+			}
+		},
+		"connections": [
+			{
+				"from": "FILES/Lore & Worldbuilding/Technology",
+				"to": "FILES/Lore & Worldbuilding/Technology/Artifact Ideas.md",
+				"strength": 3,
+				"dateCreated": "2025-11-17T09:23:51.762Z"
+			},
+			{
+				"from": "FILES/Equipment/Weapons",
+				"to": "FILES/Equipment/Weapons/Seigro's Invention.md",
+				"strength": 3,
+				"dateCreated": "2025-11-17T13:11:04.119Z"
+			},
+			{
+				"from": "FILES/Equipment/Weapons",
+				"to": "FILES/Equipment/Weapons/Stopgap.md",
+				"strength": 3,
+				"dateCreated": "2025-11-17T13:15:25.386Z"
+			}
+		]
+	},
+	"version": 1
+}
